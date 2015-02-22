@@ -13,63 +13,74 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 \end{abstract}
 
 \section{Intro to ML}
-
 \section{Limitations of ML}
-\subsection{ Input to a classifier to be separable }
-(images)
-\subsection{Engineered feature selection and extraction}
-\subsection{Back propagation and  the vanishing gradient}
-\subsection{Credit assignment paths}
+	\subsection{ Input to a classifier to be separable }
+		(images)
+	\subsection{Engineered feature selection and extraction}
+	\subsection{Back propagation and  the vanishing gradient}
+	\subsection{Credit assignment paths}
 \section{Promise of DL}
-\subsection{Idea: Automated feature extraction}
-\subsection{Benefits in quality}
-\subsection{Benefits in time}
-\subsection{Enabling new applications (multi-modal)}
-\subsection{End-to-end ML}
-\subsection{One algorithm for many areas of application}
-How is it called?
+	\subsection{Idea: Automated feature extraction}
+	\subsection{Benefits in quality}
+	\subsection{Benefits in time}
+	\subsection{Enabling new applications (multi-modal)}
+	\subsection{End-to-end ML}
+	\subsection{One algorithm for many areas of application}
+	How is it called?
 \section{Basic ideas of DL}
-\subsection{The very generic/abstract deep architecture (just so the reader can follow the rest)}
-\subsection{Priors: Why DL may work and when}
-\subsection{Why unsupervised pre training is helping. Different hypotheses}	
-\subsection{More}
+	\subsection{The very generic/abstract deep architecture (just so the reader can follow the rest)}
+	\subsection{Priors: Why DL may work and when}
+	\subsection{Why unsupervised pre training is helping. Different hypotheses}	
+	\subsection{More}
 \section{Comparison of DL methods}
-\subsection{Most popular fields of application (Brief intro so that it provides context to the architectures that follow)}
-\subsubsection{Computer vision}
-\subsubsection{Voice recognition}
-\subsubsection{Machine translation}
-\subsubsection{Document classification}
-\subsubsection{Multi-modal applications}
-	□ Text-image
-	□ Sound-image/video
-\subsection{Different architectures}
-\subsubsection{Deep neural networks}
+	\subsection{Most popular fields of application (Brief intro so that it provides context to the architectures that follow)}
+		\subsubsection{Computer vision}
+		\subsubsection{Voice recognition}
+		\subsubsection{Machine translation}
+		\subsubsection{Document classification}
+		\subsubsection{Multi-modal applications}
+			□ Text-image
+			□ Sound-image/video
+	\subsection{Different architectures}
+		\subsubsection{Deep neural networks}		
+		\subsubsection{Deep belief networks}
+		\subsubsection{Convolutional neural network}
+			Convolutional Neural Networks, commonly abbreviated as CNN, are one of the earliest successes of deep architectures, that achieved some level of automated feature extraction (LeCun 1990). The first proposed such architecture comes from 1980, when Fukushima proposed a network named "Neocognitron". The aim was to explore computational models of the visual cortex of the brain, for purpose of improving the understanding of the function of the cortex.
+			
+			There are a number of key ideas that are common in the majority of the variations of this architecture, that are summarised below and will be further explained. They are described by LeCun 1989, LeCun 1990.
+			\cite{Bengio2007}
 
-\subsubsection{Deep belief networks}
-\subsubsection{Convolutional neural network}
-\subsubsection{Convolutional Deep Belief Networks}
-\subsubsection{Deep Boltzmann Machines}
-\subsubsection{Stacked (Denoising) Auto-Encoders}
-\subsubsection{Compound Hierarchical-Deep Models}
-\subsubsection{Deep Coding Networks}
-\subsubsection{Deep Kernel Machines}
-\subsection{Popular architectures for each field}
+			\begin{itemize}
+				\item Each layer is arranged as a two-dimensional, usually square, matrix, rather than a vector. This is done to exploit the prior knowledge that nearby pixels in the input image probably carry related information.
+				\item There are shared weights in each layer. In each layer, the weights that are learned or pre-set are identically applied to all parts of the input.
+				\item There is an alternation of two types of layers. One is extracting features by convolving the input of the layer with a kernel. The other is subsampling the output of the first layer to achieve some invariance.				
+			\end{itemize}
+			
+			The early applications of Convolutional Neural Networks was on handwritten digit recognition. The domain was chosen both because it is simple and because it had important practical applications. It is simple, compared to other object recognition tasks, because it is has only 10 possible outputs (0-9) and a relatively simple input of a grayscale images of single digits, usually with not much background noise.
+			
+		\subsubsection{Convolutional Deep Belief Networks}
+		\subsubsection{Deep Boltzmann Machines}
+		\subsubsection{Stacked (Denoising) Auto-Encoders}
+		\subsubsection{Compound Hierarchical-Deep Models}
+		\subsubsection{Deep Coding Networks}
+		\subsubsection{Deep Kernel Machines}
+	\subsection{Popular architectures for each field}
 \section{Notable ideas on implementing popular deep architectures}
-\subsection{Layer-wise greedy pre-training}
-\subsection{Regularisation methods}
-\subsubsection{Dropout}
+	\subsection{Layer-wise greedy pre-training}
+	\subsection{Regularisation methods}
+		\subsubsection{Dropout}
 \section{Critique and weaknesses}
 \section{Remaining challenges}
-\subsection{Scaling up}
-\subsection{Distributed training}
-\subsection{Developing intuition and understanding of DL}
-\subsection{Finding new areas of (commercial) application}
+	\subsection{Scaling up}
+	\subsection{Distributed training}
+	\subsection{Developing intuition and understanding of DL}
+	\subsection{Finding new areas of (commercial) application}
 \section{Commercial applications of DL}
-\subsection{Companies and how they too promote the research}
+	\subsection{Companies and how they too promote the research}
 	
 	
-	
-	
+\bibliographystyle{Chicago}	
+\bibliography{library}	
 
 
 \end{document}
