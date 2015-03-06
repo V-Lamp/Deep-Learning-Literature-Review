@@ -1,25 +1,41 @@
-\documentclass[]{article}
-
+\documentclass[a4paper]{report}
+\usepackage{graphicx}
+\usepackage[inline]{enumitem}
+%\usepackage{todonotes}
 %opening
+\author{Vasileios Lampridis	(1465093)}
 \title{A review of Deep Learning methods}
-\author{}
-
 \begin{document}
+	
+\tableofcontents
+\listoffigures
+\newpage
 
 \maketitle
 
 \begin{abstract}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 \end{abstract}
 
 \section{Intro to ML}
-\section{Limitations of ML}
-	\subsection{ Input to a classifier to be separable }
-		(images)
+\section{Limitations of shallow architectures}
+	This section discusses what are the inherent limitations that exist in older, shallow architectures of Machine Learning algorithms. It provides a background to understand the breakthrough that was achieved with use deeper architectures and the motivation for their exploration. 	
+	\subsection{Limitations to local learning.}
+		A review from Bengio and LeCun \cite{Bengio2007} provides a structured explanation of these limitations, from a theoretical perspective. Their claim is that methods that rely on local kernels or/and the smoothness of the approximated function may need an exponential number of parameters to approximate the function that relates the input to the output.
+		They classify non-deep algorithms to three main categories: 
+		\begin{enumerate*}
+			\item Fixed pre-processing plus linear predictor		
+			\item Template matchers plus linear predictor
+			\item Simple trainable basis functions plus linear predictor
+		\end{enumerate*}. 
+		In the first class, there is the need for a hand-crafted processing of the input so that it becomes more separable, to improve the accuracy of the classifier. 
 	\subsection{Engineered feature selection and extraction}
+		One of the approaches to circumvent the limitations discussed previously is to simplify the input by applying a domain specific preprocessing. The aims of this step are to reduce the dimensions of the input and create a (more) separable and smooth structure of the data so that, when presented to an approximator, it can be more accurate. The problem for this approach that the process is domain specific\cite{Bengio2007}. For example, a system designed to recognise car should not  be able to recognise animals. Moreover, the development of such methods relies heavily on the intuition around the problem and thus requires domain expertise and it is a slow trial and error process, which is costly in human capital. Before the use deep architectures, most top performing methods involved domain-specific preprocessing, yet, when retrospectively compared with these on common benchmarking datasets for audio and visual problems, this approach produces results of lower accuracy \cite{Krizhevsky2012}
+	
+	In summary, shallow architectures and local learning algorithms seem to need an infeasible amount of parameters to approximate the structure of the input in many important domains and  methods that are designed for one problem are not expected to be transferable in others.
 	\subsection{Back propagation and  the vanishing gradient}
-	\subsection{Credit assignment paths}
-\section{Promise of DL}
+	
+\section{Promise of DL}	
 	\subsection{Idea: Automated feature extraction}
 	\subsection{Benefits in quality}
 	\subsection{Benefits in time}
@@ -33,6 +49,44 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	\subsection{Why unsupervised pre training is helping. Different hypotheses}	
 	\subsection{More}
 \section{Comparison of DL methods}
+	The aim of this section is to present the popular deep learning approaches to a number of domains, and highlight how the nature of each domain drove some of the design choices in the according architectures. The domains that will be discussed are:
+	\begin{enumerate*}
+		\item Computer Vision
+		\item Audio and Speech Recognition
+		\item Information Retrieval
+	\end{enumerate*}.	
+	The domain problems are briefly described, along with the attributes of them that are relevant to the development of Machine Learning architectures. Then the most common deep architectures are presented, showing the relation of the structure to the problem.
+	\subsection{Computer Vision}
+		The general problem in this field is could be described by the question "how to reason about the contents of an image". 
+		The most common and well studied problem from a machine learning perspective is to classify the image, that is to assign one or more labels from a given set, that are usually meant to describe the contents of the image, for example "face", "car", "1". This is arguably the most studied problem in the deep learning literature.
+		Other common problems are image segmentation and object detection. In where the image is to be separated into sensible areas based on the content, for example separating the patches that contain each letter out of a written word. Another is object detection where an object is to be recognised and located in the image.
+		
+		There are some inherent challenges in object recognition. The output should be independent of variations in the input image, like translation, rotation, scaling and other distortions of the image. Also, objects may be partially obstructed by others, and have a noisy background. To give an example of these challenges, humans can recognise an upside-down car in any (visible) scale and in any position on an image, even if some part of it is hidden and the car is in a junk-yard (a noisy background). An ideal object recognition system should be able to match these abilities of the human visual cortex, achieving an invariance to input distortions. 
+		
+		\paragraph{Deep Architectures for Object Recognition}
+		Convolutional Networks are the first proposed deep architecture,
+		For each of those challenges, explicit choices were made the drove the design of the top-performing deep architectures in this domain.
+		Scale
+			Image is scaled to multiple scales
+		Translation
+			Pooling layer
+		Rotation?
+		\subsubsection{Convolutional neural networks}
+		Convolutional Neural Networks, commonly abbreviated as CNN, are one of the earliest successes of deep architectures, that achieved some level of automated feature extraction \cite{LeCun1990} for object recognition tasks in image processing.The first such architecture is introduced at 1980, when \cite{Fukushima1980} proposed a network named "Neocognitron". The aim of this network was to explore possible computational models of the visual cortex of the brain, for purpose of improving the understanding of the function of the cortex.
+		The early applications of Convolutional Neural Networks was on handwritten digit recognition\cite{LeCun1989,LeCun1990,Lecun1995}, face recognition \cite{Lawrence1997} and document recognition \cite{LeCun1998}. Today, they are the most one of the most popular solutions for image processing tasks, with outstanding results in benchmarking datasets like ImageNet \cite{Krizhevsky2012}. They
+		$ f(x) = x  $
+		\paragraph{Main Ideas}			
+		There are a number of key ideas that are common in the majority of the variations of this architecture, that are summarised below and will be further explained. They are described by \cite{LeCun1989,LeCun1990}.
+		\begin{itemize}
+			\item They achieve end-to-end classification, meaning that the input is a 2-dimensional array of image pixels and the output is of the desired form, usually one or more labels that describe the input image. No prior feature extraction is required.
+			\item Each layer is arranged as a two-dimensional, usually square, matrix of computational units, rather than a vector. This is chosen in order to exploit the prior knowledge that nearby pixels in the input image probably carry related information.
+			\item There are shared weights in each layer. In each layer, the weights are identically applied to all parts of the input. That is what explains the name of CNN, since this means that the 2-dimensional input is \textit{convolved} with a kernel to produce the output of the layer. This is exploiting the assumption that a filter that is useful in one part of the image is probably useful in other parts of it.
+			\item There is an alternation of two types of layers. One is extracting features by convolving the input of the layer with a kernel. The other is subsampling the output of the first layer to achieve some invariance. This alternation is what achieves the translation invariance in the image, meaning that a small sift of the object in the image should not affect the output of the network.
+			\item They have multiple couples of layers. This characteristic exploits the assumption that the input is compositional, meaning that complex structures are created by composing multiple simpler structures. This is a common theme in deep architectures. \textbf{REF}
+		\end{itemize}	 
+		
+		
+		
 	\subsection{Most popular fields of application (Brief intro so that it provides context to the architectures that follow)}
 		\subsubsection{Computer vision}
 		\subsubsection{Voice recognition}
@@ -44,19 +98,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	\subsection{Different architectures}
 		\subsubsection{Deep neural networks}		
 		\subsubsection{Deep belief networks}
-		\subsubsection{Convolutional neural network}
-			Convolutional Neural Networks, commonly abbreviated as CNN, are one of the earliest successes of deep architectures, that achieved some level of automated feature extraction (LeCun 1990). The first proposed such architecture comes from 1980, when Fukushima proposed a network named "Neocognitron". The aim was to explore computational models of the visual cortex of the brain, for purpose of improving the understanding of the function of the cortex.
-			
-			There are a number of key ideas that are common in the majority of the variations of this architecture, that are summarised below and will be further explained. They are described by LeCun 1989, LeCun 1990.
-			\cite{Bengio2007}
+		
+						
+			The following part will describe the generic architecture of Convolutional Neural Networks and further explain the above points.
 
-			\begin{itemize}
-				\item Each layer is arranged as a two-dimensional, usually square, matrix, rather than a vector. This is done to exploit the prior knowledge that nearby pixels in the input image probably carry related information.
-				\item There are shared weights in each layer. In each layer, the weights that are learned or pre-set are identically applied to all parts of the input.
-				\item There is an alternation of two types of layers. One is extracting features by convolving the input of the layer with a kernel. The other is subsampling the output of the first layer to achieve some invariance.				
-			\end{itemize}
 			
-			The early applications of Convolutional Neural Networks was on handwritten digit recognition. The domain was chosen both because it is simple and because it had important practical applications. It is simple, compared to other object recognition tasks, because it is has only 10 possible outputs (0-9) and a relatively simple input of a grayscale images of single digits, usually with not much background noise.
+
+			
+			
 			
 		\subsubsection{Convolutional Deep Belief Networks}
 		\subsubsection{Deep Boltzmann Machines}
@@ -79,7 +128,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	\subsection{Companies and how they too promote the research}
 	
 	
-\bibliographystyle{Chicago}	
+\bibliographystyle{plain}	
 \bibliography{library}	
 
 
