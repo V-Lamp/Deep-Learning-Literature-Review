@@ -1,7 +1,7 @@
 <map version="docear 1.1" type="literature_annotations" dcr_id="1377252530894_1grl6v933xx72ya3jsw2wns1a" project="14BD12F79EB3NX5V733MC5WWV5JQ0QVQN2QC" project_last_home="file:/D:/Dropbox/King&apos;s/A.R.T/MyPaper/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1425390331803" DCR_PRIVACY_LEVEL="DEMO" LINK="project://14BD12F79EB3NX5V733MC5WWV5JQ0QVQN2QC/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/G.%20E.%20Hinton%20-%20Unknown%20-%20Transforming%20Auto-encoders.pdf"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_1723255651" CREATED="1283093380553" MODIFIED="1425501154764" DCR_PRIVACY_LEVEL="DEMO" LINK="project://14BD12F79EB3NX5V733MC5WWV5JQ0QVQN2QC/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/G.%20E.%20Hinton%20-%20Unknown%20-%20Transforming%20Auto-encoders.pdf"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79,7 +79,7 @@
 <font NAME="Courier New" BOLD="true"/>
 <edge COLOR="#006699"/>
 </node>
-<node TEXT="DL Reviews" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1425390331806" DCR_PRIVACY_LEVEL="DEMO" MOVED="1425229427005">
+<node TEXT="DL Reviews" POSITION="right" ID="ID_898640622" CREATED="1377254976740" MODIFIED="1425501154770" DCR_PRIVACY_LEVEL="DEMO" MOVED="1425229427005">
 <edge COLOR="#7c7c00"/>
 <node TEXT="Bengio, LeCun_2007_Scaling learning algorithms towards AI.pdf" FOLDED="true" ID="ID_1698798851" CREATED="1425225869398" MODIFIED="1425225869398" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf" MOVED="1425330529958">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
@@ -2393,7 +2393,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 </node>
 </node>
-<node TEXT="Schmidhuber_2014_Deep Learning in Neural Networks An Overview.pdf" FOLDED="true" ID="ID_449983699" CREATED="1425225871598" MODIFIED="1425225871598" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Schmidhuber_2014_Deep%20Learning%20in%20Neural%20Networks%20An%20Overview.pdf" MOVED="1425228334090">
+<node TEXT="Schmidhuber_2014_Deep Learning in Neural Networks An Overview.pdf" ID="ID_449983699" CREATED="1425225871598" MODIFIED="1425225871598" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Schmidhuber_2014_Deep%20Learning%20in%20Neural%20Networks%20An%20Overview.pdf" MOVED="1425228334090">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="2B2075F843293F50AB5DCFA78BC2DBB7A829AB693B9BEFB711568FAEB214B2E">
     <pdf_title>Deep Learning in Neural Networks: An Overview</pdf_title>
 </pdf_annotation>
@@ -3596,7 +3596,7 @@
 </node>
 </node>
 </node>
-<node TEXT="ConvNets" FOLDED="true" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1425390332006" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="ConvNets" FOLDED="true" POSITION="right" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1425501155072" DCR_PRIVACY_LEVEL="DEMO">
 <edge COLOR="#007c7c"/>
 <node TEXT="Fukushima_1980_Neocognitron A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in positio.pdf" ID="ID_1251284268" CREATED="1425225866741" MODIFIED="1425225866741" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Fukushima_1980_Neocognitron%20A%20self-organizing%20neural%20network%20model%20for%20a%20mechanism%20of%20pattern%20recognition%20unaffected%20by%20shift%20in%20positio.pdf">
 <pdf_annotation type="PDF_FILE" object_id="0" document_hash="7286346D193A3DE8DC71B2F2C5C6D5103DD73B83738A97CEB585191271E98D7A">

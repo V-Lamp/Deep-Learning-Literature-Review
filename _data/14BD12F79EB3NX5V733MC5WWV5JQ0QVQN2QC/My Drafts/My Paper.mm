@@ -1,7 +1,7 @@
 <map version="docear 1.1" dcr_id="1425147575669_dphoivble294mztfeapncnpra" project="14BD12F79EB3NX5V733MC5WWV5JQ0QVQN2QC" project_last_home="file:/D:/Dropbox/King&apos;s/A.R.T/MyPaper/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected"/>
-<node TEXT="My Paper" FOLDED="false" ID="ID_89932540" CREATED="1425147575643" MODIFIED="1425571297754"><hook NAME="MapStyle" zoom="0.912">
+<node TEXT="My Paper" FOLDED="false" ID="ID_89932540" CREATED="1425147575643" MODIFIED="1425571297754"><hook NAME="MapStyle" zoom="1.003">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -74,7 +74,7 @@
 <node TEXT="Credit assignment paths" ID="ID_96053482" CREATED="1425149342760" MODIFIED="1425571297829" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="3.1 The Limits of Matching Local Templates" ID="ID_622537998" CREATED="1425245326819" MODIFIED="1425571297835" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="3.1 The Limits of Matching Local Templates" ID="ID_622537998" CREATED="1425245326819" MODIFIED="1425777177543" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="11" object_id="2585814911762841508" object_number="413" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -85,7 +85,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="4.1 Multi-Layer Neural Networks" ID="ID_1224830712" CREATED="1425245326876" MODIFIED="1425571297842" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="4.1 Multi-Layer Neural Networks" ID="ID_1224830712" CREATED="1425245326876" MODIFIED="1425777177206" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="16" object_id="5105257424449041946" object_number="447" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -96,7 +96,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="4.2 The Challenge of Training Deep Neural Networks" ID="ID_395257449" CREATED="1425245326898" MODIFIED="1425571297849" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="4.2 The Challenge of Training Deep Neural Networks" ID="ID_395257449" CREATED="1425245326898" MODIFIED="1425777177293" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="16" object_id="5120848818420908418" object_number="457" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -107,7 +107,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="3 Learning Architectures, Shallow and Deep" ID="ID_1078162466" CREATED="1425245745780" MODIFIED="1425571297745" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf">
+<node TEXT="3 Learning Architectures, Shallow and Deep" FOLDED="true" ID="ID_1078162466" CREATED="1425245745780" MODIFIED="1425571297745" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="9" object_id="3324316366223081462" object_number="248" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
     <pdf_title>Scaling Learning Algorithms towards AI</pdf_title>
 </pdf_annotation>
@@ -270,7 +270,7 @@
 <node TEXT="As discussed in section 4.2, many kernel algorithms make an implicit assumption of a locally smooth function (e.g., locally linear in the case of SVMs) around each training example x i. Hence a high curvature implies the necessity of a large number of training examples in order to cover all the desired twists and turns with locally constant or locally linear pieces. This brings us to what we perceive as the main shortcoming of template-based methods: a very large number of templates may be required in order to cover each manifold with enough templates to avoid misclassi&#xfb01;cations. Furthermore, the number of necessary templates can grow exponentially with the intrinsic dimension of a classinvariant manifold." ID="ID_989700069" CREATED="1425593587182" MODIFIED="1425593587182"/>
 </node>
 </node>
-<node TEXT="4 Fundamental Limitation of Local Learning" ID="ID_1575159896" CREATED="1425245745956" MODIFIED="1425571297903" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf">
+<node TEXT="4 Fundamental Limitation of Local Learning" FOLDED="true" ID="ID_1575159896" CREATED="1425245745956" MODIFIED="1425571297903" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="16" object_id="3090076730651701513" object_number="246" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
     <pdf_title>Scaling Learning Algorithms towards AI</pdf_title>
 </pdf_annotation>
@@ -290,6 +290,46 @@
 <node TEXT="My Paper_49321572987810034.png" ID="ID_440984129" CREATED="1425501666818" MODIFIED="1425571297927" MOVED="1425503791961">
 <hook URI="project://14BD12F79EB3NX5V733MC5WWV5JQ0QVQN2QC/_data/14BD12F79EB3NX5V733MC5WWV5JQ0QVQN2QC/My%20Drafts/My%20Paper_49321572987810034.png" SIZE="0.88235295" NAME="ExternalObject"/>
 <attribute NAME="ReadIt" VALUE="F"/>
+</node>
+<node TEXT="A large fraction of the recent work in statistical machine learning has focused on non-parametric learning algorithms which rely solely, explicitly or implicitly, on a smoothness prior. A smoothness prior favors functions f such that when x &#x2248; x &#x2032; , f(x) &#x2248; f(x &#x2032; ). Additional prior knowledge is expressed by choosing the space of the data and the particular notion of similarity between examples (typically expressed as a kernel function)." ID="ID_1505664631" CREATED="1425664740274" MODIFIED="1425664740274" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf" MOVED="1425664869586">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="16" object_id="93686791730168576" object_number="94" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
+    <pdf_title>Scaling Learning Algorithms towards AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2007"/>
+<attribute NAME="journal" VALUE="Large-scale kernel Mach."/>
+<attribute NAME="year" VALUE="2007"/>
+<attribute NAME="title" VALUE="{Scaling learning algorithms towards AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua and LeCun, Y"/>
+</node>
+<node TEXT="Since this is a large class of algorithms and one that continues to attract attention, it is worthwhile to investigate its limitations. Since these methods share many characteristics with classical non-parametric statistical learning algorithms &#x2013; such as the k-nearest neighbors and the Parzen windows regression and density estimation algorithms [Duda and Hart, 1973] &#x2013; which have been shown to suffer from the so-called curse of dimensionality, it is logical to investigate the following question: to what extent do these modern kernel methods suffer from a similar problem?" ID="ID_955726179" CREATED="1425664740354" MODIFIED="1425664740354" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf" MOVED="1425664869603">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="16" object_id="4906603183825480647" object_number="95" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
+    <pdf_title>Scaling Learning Algorithms towards AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2007"/>
+<attribute NAME="journal" VALUE="Large-scale kernel Mach."/>
+<attribute NAME="year" VALUE="2007"/>
+<attribute NAME="title" VALUE="{Scaling learning algorithms towards AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua and LeCun, Y"/>
+</node>
+<node TEXT="If n 1 is the number of examples required to get a particular level of error, to get the same level of error in d dimensions requires on the order of n (4+d)/5 1 examples, i.e., the required number of examples is exponential in d." ID="ID_137183212" CREATED="1425664740408" MODIFIED="1425664740408" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf" MOVED="1425664869617">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="17" object_id="820566963006709500" object_number="99" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
+    <pdf_title>Scaling Learning Algorithms towards AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2007"/>
+<attribute NAME="journal" VALUE="Large-scale kernel Mach."/>
+<attribute NAME="year" VALUE="2007"/>
+<attribute NAME="title" VALUE="{Scaling learning algorithms towards AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua and LeCun, Y"/>
+</node>
+<node TEXT="Note however that, if the data distribution is concentrated on a lower dimensional manifold, it is the manifold dimension that matters. For example, when data lies on&#xa;a smooth lower-dimensional manifold, the only dimensionality that matters to a knearest neighbor classi&#xfb01;er is the dimensionality of the manifold, since it only uses the Euclidean distances between the near neighbors. Many unsupervised and semisupervised learning algorithms rely on a graph with one node per example, in which nearby examples are connected with an edge weighted by the Euclidean distance between them. If data lie on a low-dimensional manifold then geodesic distances in this graph approach geodesic distances on the manifold [Tenenbaum et al., 2000], as the number of examples increases. However, convergence can be exponentially slower for higher-dimensional manifolds." ID="ID_1695472700" CREATED="1425664740453" MODIFIED="1425664878295" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf" MOVED="1425664869635">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="17" object_id="7007094503829278766" object_number="100" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
+    <pdf_title>Scaling Learning Algorithms towards AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2007"/>
+<attribute NAME="journal" VALUE="Large-scale kernel Mach."/>
+<attribute NAME="year" VALUE="2007"/>
+<attribute NAME="title" VALUE="{Scaling learning algorithms towards AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua and LeCun, Y"/>
 </node>
 <node TEXT="4.1 Minimum Number of Bases Required" ID="ID_1630639726" CREATED="1425245745973" MODIFIED="1425571297934" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="18" object_id="3876141421747931893" object_number="268" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
@@ -333,7 +373,7 @@
 </node>
 </node>
 </node>
-<node TEXT="4.2 Smoothness versus Locality: Curse of Dimensionality" ID="ID_1193634180" CREATED="1425245746035" MODIFIED="1425571297996" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf">
+<node TEXT="4.2 Smoothness versus Locality: Curse of Dimensionality" FOLDED="true" ID="ID_1193634180" CREATED="1425245746035" MODIFIED="1425571297996" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf" MOVED="1425664859880">
 <pdf_annotation type="BOOKMARK" page="21" object_id="1181752018061427467" object_number="267" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
     <pdf_title>Scaling Learning Algorithms towards AI</pdf_title>
 </pdf_annotation>
@@ -366,7 +406,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 </node>
-<node TEXT="3 Depth of Credit Assignment Paths (CAPs) and of Problems" ID="ID_822452084" CREATED="1425225872161" MODIFIED="1425225872161" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Schmidhuber_2014_Deep%20Learning%20in%20Neural%20Networks%20An%20Overview.pdf">
+<node TEXT="3 Depth of Credit Assignment Paths (CAPs) and of Problems" ID="ID_822452084" CREATED="1425225872161" MODIFIED="1425225872161" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Schmidhuber_2014_Deep%20Learning%20in%20Neural%20Networks%20An%20Overview.pdf" MOVED="1425664859856">
 <pdf_annotation type="BOOKMARK" page="6" object_id="120006704472154768" object_number="12" document_hash="2B2075F843293F50AB5DCFA78BC2DBB7A829AB693B9BEFB711568FAEB214B2E">
     <pdf_title>Deep Learning in Neural Networks: An Overview</pdf_title>
 </pdf_annotation>
@@ -376,8 +416,1378 @@
 <attribute NAME="authors" VALUE="Schmidhuber, Juergen"/>
 </node>
 </node>
+<node TEXT="Bengio, LeCun_2007_Scaling learning algorithms towards AI.pdf" ID="ID_424808122" CREATED="1425664740185" MODIFIED="1425664740196" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20LeCun_2007_Scaling%20learning%20algorithms%20towards%20AI.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="AED658698B35C68CC9518751DBD5CA9FA43BE4133737FED6EB9C3936FD76F">
+    <pdf_title>Scaling Learning Algorithms towards AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2007"/>
+<attribute NAME="journal" VALUE="Large-scale kernel Mach."/>
+<attribute NAME="year" VALUE="2007"/>
+<attribute NAME="title" VALUE="{Scaling learning algorithms towards AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua and LeCun, Y"/>
 </node>
-<node TEXT="Promise of DL" FOLDED="true" POSITION="right" ID="ID_201980601" CREATED="1425149283518" MODIFIED="1425571298043" NUMBERED="true">
+<node TEXT="Bengio_2009_Learning deep architectures for AI.pdf" FOLDED="true" ID="ID_1611271545" CREATED="1425688341966" MODIFIED="1425777177562" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="PDF_FILE" object_id="0" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT=". We argue that local estimators are inappropriate to learn highly-varying functions, even though they can potentially be represented ef&#xfb01;ciently with deep architectures. An estimator that is local in input space obtains good generalization for a new input x by mostly exploiting training examples in the neighborhood of x. For example, the k nearest neighbors of the test point x, among the training examples, vote for the prediction at x." ID="ID_1935211675" CREATED="1425688342005" MODIFIED="1425688342005" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="11" object_id="9060206617770524018" object_number="110" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Local estimators implicitly or explicitly partition the input space in regions (possibly in a soft rather than hard way) and require different parameters or degrees of freedom to account for the possible shape of the target function in each of the regions. When many regions are necessary because the function is highly varying, the number of required parameters will also be large, and thus the number of examples needed to achieve good generalization. The local generalization issue is directly connected to the literature on the curse of dimensionality, but the results we cite show that what matters for generalization is not dimensionality, but instead the number of &#x201c;variations&#x201d; of the function we wish to obtain after learning." ID="ID_342447991" CREATED="1425688342025" MODIFIED="1425688342026" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="11" object_id="5897383271612216863" object_number="111" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="There are connections between the number of variations and the input dimension: one can readily design families of target functions for which the number of variations is exponential in the input dimension, such as the parity function with d inputs" ID="ID_582024681" CREATED="1425688342044" MODIFIED="1425688342045" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="11" object_id="5669281304638549447" object_number="112" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Architectures based on matching local templates can be thought of as having two levels. The &#xfb01;rst level is made of a set of templates which can be matched to the input. A template unit will output a value that indicates the degree of matching. The second level combines these values, typically with a simple linear combination (an OR-like operation), in order to estimate the desired output. One can think of this linear combination as performing a kind of interpolation in order to produce an answer in the region of input space that is between the templates." ID="ID_615285318" CREATED="1425688342072" MODIFIED="1425688342072" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="11" object_id="1582280306420419999" object_number="113" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Well-known examples of kernel machines include Support Vector Machines (SVMs) (Boser, Guyon, &amp; Vapnik, 1992; Cortes &amp; Vapnik, 1995) and Gaussian processes (Williams &amp; Rasmussen, 1996) 3 for classi&#xfb01;cation and regression, but also classical non-parametric learning algorithms for classi&#xfb01;cation, regression and density estimation, such as the k-nearest neighbor algorithm, Nadaraya-Watson or Parzen windows density and regression estimators, etc." ID="ID_1161504151" CREATED="1425688342091" MODIFIED="1425688342091" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="12" object_id="7622234468267361009" object_number="117" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Kernel machines with a local kernel yield generalization by exploiting what could be called the smoothness prior: the assumption that the target function is smooth or can be well approximated with a smooth function. For example, in supervised learning, if we have the training example ( x i , y i ), then it makes sense to construct a predictor f( x ) which will output something close to y i when x is close to x i. Note how this prior requires de&#xfb01;ning a notion of proximity in input space. This is a useful prior, but one of the claims made in Bengio, Delalleau, and Le Roux (2006) and Bengio and LeCun (2007) is that such a prior is often insuf&#xfb01;cient to generalize when the target function is highly-varying in input space" ID="ID_1094293951" CREATED="1425688342110" MODIFIED="1425688342110" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="12" object_id="6996317928275166410" object_number="118" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="The limitations of a &#xfb01;xed generic kernel such as the Gaussian kernel have motivated a lot of research in designing kernels based on prior knowledge about the task " ID="ID_255192976" CREATED="1425688342128" MODIFIED="1425688342128" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="12" object_id="4390635210083489884" object_number="119" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT=" However, if we lack suf&#xfb01;cient prior knowledge for designing an appropriate kernel, can we learn it? This question also motivated much research (Lanckriet, Cristianini, Bartlett, El Gahoui, &amp; Jordan, 2002; Wang &amp; Chan, 2002; Cristianini, Shawe-Taylor, Elisseeff, &amp; Kandola, 2002), and deep architectures can be viewed as a promising development in this direction." ID="ID_1444441656" CREATED="1425688342145" MODIFIED="1425688342145" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="12" object_id="9038528726845703180" object_number="120" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Following Schmitt (2002), Bengio et al. (2006), Bengio and LeCun (2007) show that for kernel machines with a Gaussian kernel, the required number of examples grows linearly with the number of bumps in the target function to be learned. They also show that for a maximally varying function such as the parity function, the number of examples necessary to achieve some error rate with a Gaussian kernel machine is exponential in the input dimension." ID="ID_765102272" CREATED="1425688342163" MODIFIED="1425688342163" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="12" object_id="4039496027160339528" object_number="121" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="However, learning could work with other classes of functions in which the pattern of variations is captured compactly (a trivial example is when the variations are periodic and the class of functions includes periodic functions that approximately match)." ID="ID_153615452" CREATED="1425688342182" MODIFIED="1425688342182" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="13" object_id="8870410277659237705" object_number="125" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="It could also be argued that if the curve has many variations and these variations are not related to each other through an underlying regularity, then no learning algorithm will do much better than estimators that are local in input space. However, it might be worth looking for more compact representations of these variations, because if one could be found, it would be likely to lead to better generalization, especially for variations not seen in the training set. Of course this could only happen if there were underlying regularities to be captured in the target function; we expect this property to hold in AI tasks." ID="ID_205544985" CREATED="1425688342200" MODIFIED="1425688342200" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="13" object_id="4335555669670722081" object_number="126" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Most of these unsupervised and semi-supervised algorithms rely on the neighborhood graph: a graph with one node per example and arcs between near neighbors. With these algorithms, one can get a geometric intuition of what they are doing, as well as how being local estimators can hinder them. " ID="ID_393555960" CREATED="1425688342227" MODIFIED="1425688342227" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="13" object_id="2149530634853266310" object_number="127" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Unfortunately, if the manifold is highly curved, the patches are required to be small, and exponentially many might be needed with respect to manifold dimension." ID="ID_1617072652" CREATED="1425688342248" MODIFIED="1425688342248" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="13" object_id="6106481748775297004" object_number="128" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="These algorithms partition the neighborhood graph in regions of constant label. It can be shown that the number of regions with constant label cannot be greater than the number of labeled examples (Bengio et al., 2006). Hence one needs at least as many labeled examples as there are variations of interest for the classi&#xfb01;cation. This can be prohibitive if the decision surface of interest has a very large number of variations." ID="ID_255799691" CREATED="1425688342270" MODIFIED="1425688342271" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="13" object_id="2561132752048519847" object_number="129" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Decision Trees also suffer from the limitation discussed above for other non-parametric learning algorithms: they need at least as many training examples as there are variations of interest in the target function, and they cannot generalize to new variations not covered in the training set. " ID="ID_1967105816" CREATED="1425688342296" MODIFIED="1425688342296" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="14" object_id="8036382581099399390" object_number="134" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="Ensembles of trees (like boosted trees (Freund &amp; Schapire, 1996), and forests (Ho, 1995; Breiman, 2001)) are more powerful than a single tree. They add a third level to the architecture which allows the model to discriminate among a number of regions exponential in the number of parameters (Bengio et al., 2009). As illustrated in Figure 5, they implicitly form a distributed representation (a notion discussed further in Section 3.2) with the output of all the trees in the forest." ID="ID_471942438" CREATED="1425688342320" MODIFIED="1425688342320" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="14" object_id="4735526096322048339" object_number="136" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="In Section 1.2, we argued that deep architectures call for making choices about the kind of representation at the interface between levels of the system, and we introduced the basic notion of local representation (discussed further in the previous section), of distributed representation, and of sparse distributed representation. The idea of distributed representation is an old idea in machine learning and neural networks research (Hinton, 1986; Rumelhart et al., 1986a; Miikkulainen &amp; Dyer, 1991; Bengio, Ducharme, &amp; Vincent, 2001; Schwenk &amp; Gauvain, 2002), and it may be of help in dealing with the curse of dimensionality and the limitations of local generalization." ID="ID_1568337600" CREATED="1425688342340" MODIFIED="1425688342340" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="14" object_id="2433885034069206791" object_number="137" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT=" Learning multilevel distributed representations for high-dimensional&#xd;&#xa;sequences." ID="ID_62681170" CREATED="1425688342362" MODIFIED="1425688342362" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="70" object_id="32487352601990899" object_number="306" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT=" Learning multilevel distributed representations for high-dimensional&#xd;&#xa;sequences." ID="ID_49143345" CREATED="1425688342362" MODIFIED="1425688342362" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="HIGHLIGHTED_TEXT" page="70" object_id="32487352601990899" object_number="306" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="1 Introduction" ID="ID_868320081" CREATED="1425688342385" MODIFIED="1425688342385" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="4192572815336993044" object_number="78" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="1.1 How do We Train Deep Architectures?" ID="ID_491613578" CREATED="1425688342420" MODIFIED="1425688342420" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="4444439177190196864" object_number="316" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="1.2 Intermediate Representations: Sharing Features and Abstractions Across Tasks" ID="ID_947891950" CREATED="1425688342452" MODIFIED="1425688342452" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="7906562184396344487" object_number="384" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="1.3 Desiderata for Learning AI" ID="ID_1045412903" CREATED="1425688342474" MODIFIED="1425688342474" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="5680398880009894500" object_number="380" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="1.4 Outline of the Paper" ID="ID_1458913000" CREATED="1425688342513" MODIFIED="1425688342514" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="2933844706279656220" object_number="314" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="2 Theoretical Advantages of Deep Architectures" ID="ID_1411060344" CREATED="1425688342540" MODIFIED="1425688342540" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="8750592796150878274" object_number="315" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="2.1 Computational Complexity" ID="ID_1838243366" CREATED="1425688342561" MODIFIED="1425688342562" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="8" object_id="2324682050510443012" object_number="383" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="2.2 Informal Arguments" ID="ID_84319022" CREATED="1425688342586" MODIFIED="1425688342587" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="10" object_id="932551783700206712" object_number="381" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="3 Local vs Non-Local Generalization" ID="ID_475457810" CREATED="1425688342610" MODIFIED="1425688342610" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="7063256156503174988" object_number="382" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="3.1 The Limits of Matching Local Templates" ID="ID_1054495928" CREATED="1425688342627" MODIFIED="1425688342627" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="2585814911762841508" object_number="487" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="3.2 Learning Distributed Representations" ID="ID_1276607773" CREATED="1425688342644" MODIFIED="1425688342644" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="14" object_id="6864814700703743591" object_number="485" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="4 Neural Networks for Deep Architectures" ID="ID_1642782053" CREATED="1425688342669" MODIFIED="1425688342669" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="16" object_id="5515329463962622170" object_number="486" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="4.1 Multi-Layer Neural Networks" ID="ID_230299472" CREATED="1425688342685" MODIFIED="1425688342685" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="16" object_id="5105257424449041946" object_number="521" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.2 The Challenge of Training Deep Neural Networks" ID="ID_712424112" CREATED="1425688342704" MODIFIED="1425688342704" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="16" object_id="5120848818420908418" object_number="531" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.3 Unsupervised Learning for Deep Architectures" ID="ID_324491901" CREATED="1425688342722" MODIFIED="1425688342722" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="21" object_id="3247310213724424419" object_number="542" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.4 Deep Generative Architectures" ID="ID_1317718526" CREATED="1425688342742" MODIFIED="1425688342742" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="22" object_id="2964275707963303117" object_number="535" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.5 Convolutional Neural Networks" ID="ID_1483135175" CREATED="1425688342759" MODIFIED="1425688342759" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="24" object_id="5175260555818131975" object_number="528" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.6 Auto-Encoders" ID="ID_679819744" CREATED="1425688342778" MODIFIED="1425688342778" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="25" object_id="6764377203240592594" object_number="519" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="5 Energy-Based Models and Boltzmann Machines" ID="ID_1744075987" CREATED="1425688342796" MODIFIED="1425688342796" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="26" object_id="858449033512855863" object_number="520" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="5.1 Energy-Based Models and Products of Experts" ID="ID_1695864109" CREATED="1425688342813" MODIFIED="1425688342813" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="26" object_id="3616212359424687945" object_number="530" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="5.1.1 Introducing Hidden Variables" ID="ID_1634108163" CREATED="1425688342832" MODIFIED="1425688342832" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="27" object_id="6696976823922349790" object_number="541" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.1.2 Conditional Energy-Based Models" ID="ID_606610139" CREATED="1425688342849" MODIFIED="1425688342849" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="28" object_id="7886456351594972130" object_number="539" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="5.2 Boltzmann Machines" ID="ID_1880028195" CREATED="1425688342865" MODIFIED="1425688342865" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="28" object_id="3840475897882870537" object_number="540" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.3 Restricted Boltzmann Machines" ID="ID_1395455552" CREATED="1425688342884" MODIFIED="1425688342884" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="30" object_id="206960014133384771" object_number="537" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="5.3.1 Gibbs Sampling in RBMs" ID="ID_363154301" CREATED="1425688342903" MODIFIED="1425688342903" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="32" object_id="1309069881738655988" object_number="544" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="5.4 Contrastive Divergence" ID="ID_175048353" CREATED="1425688342921" MODIFIED="1425688342921" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="33" object_id="1808365649863480733" object_number="529" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="5.4.1 Justifying Contrastive Divergence" ID="ID_154321934" CREATED="1425688342937" MODIFIED="1425688342937" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="33" object_id="9031792632863684909" object_number="538" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.4.2 Alternatives to Contrastive Divergence" ID="ID_1937867114" CREATED="1425688342953" MODIFIED="1425688342953" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="34" object_id="5014338640474776554" object_number="545" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.4.3 Truncations of the Log-Likelihood Gradient in Gibbs-Chain Models" ID="ID_1898962750" CREATED="1425688342973" MODIFIED="1425688342974" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="34" object_id="7744228951773459559" object_number="543" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.4.4 Model Samples Are Negative Examples" ID="ID_567826493" CREATED="1425688342992" MODIFIED="1425688342992" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="36" object_id="3788714046223886021" object_number="536" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+</node>
+<node TEXT="6 Greedy Layer-Wise Training of Deep Architectures" ID="ID_1338114881" CREATED="1425688343014" MODIFIED="1425688343014" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="37" object_id="5317560480895690974" object_number="517" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="6.1 Layer-Wise Training of Deep Belief Networks" ID="ID_255578454" CREATED="1425688343033" MODIFIED="1425688343033" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="37" object_id="8819813332736031717" object_number="524" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="6.2 Training Stacked Auto-Encoders" ID="ID_1967066947" CREATED="1425688343054" MODIFIED="1425688343055" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="39" object_id="7914826442527452257" object_number="533" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="6.3 Semi-Supervised and Partially Supervised Training" ID="ID_97037931" CREATED="1425688343072" MODIFIED="1425688343073" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="40" object_id="2924958922071653175" object_number="523" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="7 Variants of RBMs and Auto-Encoders" ID="ID_1521291465" CREATED="1425688343094" MODIFIED="1425688343094" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="40" object_id="2389872300679499009" object_number="480" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="7.1 Sparse Representations in Auto-Encoders and RBMs" ID="ID_107664585" CREATED="1425688343118" MODIFIED="1425688343118" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="41" object_id="721942603931140247" object_number="518" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="7.1.1 Why a Sparse Representation?" ID="ID_1697064864" CREATED="1425688343134" MODIFIED="1425688343135" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="41" object_id="7629019044117008980" object_number="527" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.1.2 Sparse Auto-Encoders and Sparse Coding" ID="ID_1880320276" CREATED="1425688343150" MODIFIED="1425688343150" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="42" object_id="3570028060282246956" object_number="525" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="7.2 Denoising Auto-Encoders" ID="ID_667198729" CREATED="1425688343166" MODIFIED="1425688343166" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="43" object_id="8623098402671610214" object_number="526" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.3 Lateral Connections" ID="ID_625324461" CREATED="1425688343184" MODIFIED="1425688343184" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="44" object_id="349934098471305309" object_number="534" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.4 Conditional RBMs and Temporal RBMs" ID="ID_1802131137" CREATED="1425688343200" MODIFIED="1425688343200" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="45" object_id="4017394964720952638" object_number="532" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.5 Factored RBMs" ID="ID_688832455" CREATED="1425688343216" MODIFIED="1425688343216" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="46" object_id="1784103590791442548" object_number="522" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.6 Generalizing RBMs and Contrastive Divergence" ID="ID_869355194" CREATED="1425688343232" MODIFIED="1425688343232" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="47" object_id="348984352041311752" object_number="516" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="8 Stochastic Variational Bounds for Joint Optimization of DBN Layers" ID="ID_1369114315" CREATED="1425688343249" MODIFIED="1425688343249" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="48" object_id="7485414080447085261" object_number="378" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="8.1 Unfolding RBMs into In&#xfb01;nite Directed Belief Networks" ID="ID_427156363" CREATED="1425688343266" MODIFIED="1425688343266" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="49" object_id="7739797364061018340" object_number="481" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="8.2 Variational Justi&#xfb01;cation of Greedy Layer-wise Training" ID="ID_1960519008" CREATED="1425688343282" MODIFIED="1425688343282" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="49" object_id="316820582863390650" object_number="514" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="8.3 Joint Unsupervised Training of All the Layers" ID="ID_489459136" CREATED="1425688343299" MODIFIED="1425688343299" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="52" object_id="1566424018305925706" object_number="479" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="8.3.1 The Wake-Sleep Algorithm" ID="ID_543632160" CREATED="1425688343315" MODIFIED="1425688343315" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="52" object_id="6855552920217980407" object_number="515" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="8.3.2 Transforming the DBN into a Boltzmann Machine" ID="ID_922467597" CREATED="1425688343332" MODIFIED="1425688343332" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="53" object_id="2518727157213111575" object_number="513" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+</node>
+<node TEXT="9 Looking Forward" ID="ID_1412250908" CREATED="1425688343349" MODIFIED="1425688343349" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="54" object_id="6520972588558461381" object_number="313" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="9.1 Global Optimization Strategies" ID="ID_1073324179" CREATED="1425688343366" MODIFIED="1425688343366" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="54" object_id="8990804402768668729" object_number="379" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="9.1.1 Greedy Layer-wise Training of DBNs as a Continuation Method" ID="ID_846439426" CREATED="1425688343382" MODIFIED="1425688343382" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="54" object_id="4604800662079835045" object_number="484" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="9.1.2 Unsupervised to Supervised Transition" ID="ID_206041797" CREATED="1425688343404" MODIFIED="1425688343404" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="54" object_id="8101368108074302708" object_number="482" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="9.1.3 Controlling Temperature" ID="ID_1432109724" CREATED="1425688343429" MODIFIED="1425688343429" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="55" object_id="8624600206089230514" object_number="483" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="9.1.4 Shaping: Training with a Curriculum" ID="ID_974619283" CREATED="1425688343453" MODIFIED="1425688343453" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="56" object_id="8173110287965530062" object_number="512" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="9.2 Why Unsupervised Learning is Important" ID="ID_1287584335" CREATED="1425688343474" MODIFIED="1425688343475" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="57" object_id="6524392126364415643" object_number="478" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="9.3 Open Questions" ID="ID_447553404" CREATED="1425688343492" MODIFIED="1425688343492" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="57" object_id="231558537825152541" object_number="377" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="10 Conclusion" ID="ID_1304772822" CREATED="1425688343508" MODIFIED="1425688343508" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="59" object_id="2466625922227592508" object_number="77" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="1 Introduction" ID="ID_88584733" CREATED="1425688342385" MODIFIED="1425688342385" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="1" object_id="4192572815336993044" object_number="78" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="1.1 How do We Train Deep Architectures?" ID="ID_1586884507" CREATED="1425688342420" MODIFIED="1425688342420" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="2" object_id="4444439177190196864" object_number="316" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="1.2 Intermediate Representations: Sharing Features and Abstractions Across Tasks" ID="ID_434543924" CREATED="1425688342452" MODIFIED="1425688342452" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="4" object_id="7906562184396344487" object_number="384" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="1.3 Desiderata for Learning AI" ID="ID_1106180295" CREATED="1425688342474" MODIFIED="1425688342474" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="5680398880009894500" object_number="380" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="1.4 Outline of the Paper" ID="ID_577857285" CREATED="1425688342513" MODIFIED="1425688342514" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="2933844706279656220" object_number="314" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="2 Theoretical Advantages of Deep Architectures" ID="ID_1275497017" CREATED="1425688342540" MODIFIED="1425688342540" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="6" object_id="8750592796150878274" object_number="315" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="2.1 Computational Complexity" ID="ID_40627850" CREATED="1425688342561" MODIFIED="1425688342562" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="8" object_id="2324682050510443012" object_number="383" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="2.2 Informal Arguments" ID="ID_252250004" CREATED="1425688342586" MODIFIED="1425688342587" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="10" object_id="932551783700206712" object_number="381" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="3 Local vs Non-Local Generalization" ID="ID_1584213927" CREATED="1425688342610" MODIFIED="1425688342610" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="7063256156503174988" object_number="382" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="3.1 The Limits of Matching Local Templates" ID="ID_1719558902" CREATED="1425688342627" MODIFIED="1425688342627" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="11" object_id="2585814911762841508" object_number="487" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="3.2 Learning Distributed Representations" ID="ID_1351220481" CREATED="1425688342644" MODIFIED="1425688342644" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="14" object_id="6864814700703743591" object_number="485" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="4 Neural Networks for Deep Architectures" ID="ID_561952568" CREATED="1425688342669" MODIFIED="1425688342669" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="16" object_id="5515329463962622170" object_number="486" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="4.1 Multi-Layer Neural Networks" ID="ID_612727587" CREATED="1425688342685" MODIFIED="1425688342685" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="16" object_id="5105257424449041946" object_number="521" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.2 The Challenge of Training Deep Neural Networks" ID="ID_1498743595" CREATED="1425688342704" MODIFIED="1425688342704" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="16" object_id="5120848818420908418" object_number="531" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.3 Unsupervised Learning for Deep Architectures" ID="ID_1821978457" CREATED="1425688342722" MODIFIED="1425688342722" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="21" object_id="3247310213724424419" object_number="542" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.4 Deep Generative Architectures" ID="ID_585901774" CREATED="1425688342742" MODIFIED="1425688342742" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="22" object_id="2964275707963303117" object_number="535" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.5 Convolutional Neural Networks" ID="ID_1025350594" CREATED="1425688342759" MODIFIED="1425688342759" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="24" object_id="5175260555818131975" object_number="528" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="4.6 Auto-Encoders" ID="ID_1715529657" CREATED="1425688342778" MODIFIED="1425688342778" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="25" object_id="6764377203240592594" object_number="519" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="5 Energy-Based Models and Boltzmann Machines" ID="ID_1838081832" CREATED="1425688342796" MODIFIED="1425688342796" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="26" object_id="858449033512855863" object_number="520" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="5.1 Energy-Based Models and Products of Experts" ID="ID_837558880" CREATED="1425688342813" MODIFIED="1425688342813" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="26" object_id="3616212359424687945" object_number="530" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="5.1.1 Introducing Hidden Variables" ID="ID_1046326723" CREATED="1425688342832" MODIFIED="1425688342832" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="27" object_id="6696976823922349790" object_number="541" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.1.2 Conditional Energy-Based Models" ID="ID_1748692140" CREATED="1425688342849" MODIFIED="1425688342849" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="28" object_id="7886456351594972130" object_number="539" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="5.2 Boltzmann Machines" ID="ID_284864759" CREATED="1425688342865" MODIFIED="1425688342865" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="28" object_id="3840475897882870537" object_number="540" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.3 Restricted Boltzmann Machines" ID="ID_913314624" CREATED="1425688342884" MODIFIED="1425688342884" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="30" object_id="206960014133384771" object_number="537" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="5.3.1 Gibbs Sampling in RBMs" ID="ID_758785980" CREATED="1425688342903" MODIFIED="1425688342903" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="32" object_id="1309069881738655988" object_number="544" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="5.4 Contrastive Divergence" ID="ID_854909414" CREATED="1425688342921" MODIFIED="1425688342921" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="33" object_id="1808365649863480733" object_number="529" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="5.4.1 Justifying Contrastive Divergence" ID="ID_612117446" CREATED="1425688342937" MODIFIED="1425688342937" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="33" object_id="9031792632863684909" object_number="538" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.4.2 Alternatives to Contrastive Divergence" ID="ID_688210445" CREATED="1425688342953" MODIFIED="1425688342953" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="34" object_id="5014338640474776554" object_number="545" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.4.3 Truncations of the Log-Likelihood Gradient in Gibbs-Chain Models" ID="ID_1014002601" CREATED="1425688342973" MODIFIED="1425688342974" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="34" object_id="7744228951773459559" object_number="543" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="5.4.4 Model Samples Are Negative Examples" ID="ID_1650553905" CREATED="1425688342992" MODIFIED="1425688342992" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="36" object_id="3788714046223886021" object_number="536" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+</node>
+<node TEXT="6 Greedy Layer-Wise Training of Deep Architectures" ID="ID_494703389" CREATED="1425688343014" MODIFIED="1425688343014" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="37" object_id="5317560480895690974" object_number="517" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="6.1 Layer-Wise Training of Deep Belief Networks" ID="ID_481408725" CREATED="1425688343033" MODIFIED="1425688343033" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="37" object_id="8819813332736031717" object_number="524" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="6.2 Training Stacked Auto-Encoders" ID="ID_520525203" CREATED="1425688343054" MODIFIED="1425688343055" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="39" object_id="7914826442527452257" object_number="533" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="6.3 Semi-Supervised and Partially Supervised Training" ID="ID_1601480" CREATED="1425688343072" MODIFIED="1425688343073" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="40" object_id="2924958922071653175" object_number="523" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="7 Variants of RBMs and Auto-Encoders" ID="ID_410891834" CREATED="1425688343094" MODIFIED="1425688343094" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="40" object_id="2389872300679499009" object_number="480" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="7.1 Sparse Representations in Auto-Encoders and RBMs" ID="ID_1081834669" CREATED="1425688343118" MODIFIED="1425688343118" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="41" object_id="721942603931140247" object_number="518" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="7.1.1 Why a Sparse Representation?" ID="ID_1285446678" CREATED="1425688343134" MODIFIED="1425688343135" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="41" object_id="7629019044117008980" object_number="527" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.1.2 Sparse Auto-Encoders and Sparse Coding" ID="ID_1233363478" CREATED="1425688343150" MODIFIED="1425688343150" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="42" object_id="3570028060282246956" object_number="525" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="7.2 Denoising Auto-Encoders" ID="ID_1710445229" CREATED="1425688343166" MODIFIED="1425688343166" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="43" object_id="8623098402671610214" object_number="526" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.3 Lateral Connections" ID="ID_1551207778" CREATED="1425688343184" MODIFIED="1425688343184" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="44" object_id="349934098471305309" object_number="534" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.4 Conditional RBMs and Temporal RBMs" ID="ID_1616630660" CREATED="1425688343200" MODIFIED="1425688343200" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="45" object_id="4017394964720952638" object_number="532" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.5 Factored RBMs" ID="ID_426713308" CREATED="1425688343216" MODIFIED="1425688343216" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="46" object_id="1784103590791442548" object_number="522" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="7.6 Generalizing RBMs and Contrastive Divergence" ID="ID_1510468318" CREATED="1425688343232" MODIFIED="1425688343232" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="47" object_id="348984352041311752" object_number="516" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="8 Stochastic Variational Bounds for Joint Optimization of DBN Layers" ID="ID_624514063" CREATED="1425688343249" MODIFIED="1425688343249" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="48" object_id="7485414080447085261" object_number="378" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="8.1 Unfolding RBMs into In&#xfb01;nite Directed Belief Networks" ID="ID_461312779" CREATED="1425688343266" MODIFIED="1425688343266" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="49" object_id="7739797364061018340" object_number="481" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="8.2 Variational Justi&#xfb01;cation of Greedy Layer-wise Training" ID="ID_795089180" CREATED="1425688343282" MODIFIED="1425688343282" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="49" object_id="316820582863390650" object_number="514" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="8.3 Joint Unsupervised Training of All the Layers" ID="ID_932265888" CREATED="1425688343299" MODIFIED="1425688343299" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="52" object_id="1566424018305925706" object_number="479" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="8.3.1 The Wake-Sleep Algorithm" ID="ID_116048344" CREATED="1425688343315" MODIFIED="1425688343315" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="52" object_id="6855552920217980407" object_number="515" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="8.3.2 Transforming the DBN into a Boltzmann Machine" ID="ID_705328131" CREATED="1425688343332" MODIFIED="1425688343332" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="53" object_id="2518727157213111575" object_number="513" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+</node>
+<node TEXT="9 Looking Forward" ID="ID_1594008357" CREATED="1425688343349" MODIFIED="1425688343349" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="54" object_id="6520972588558461381" object_number="313" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="9.1 Global Optimization Strategies" ID="ID_1125332164" CREATED="1425688343366" MODIFIED="1425688343366" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="54" object_id="8990804402768668729" object_number="379" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+<node TEXT="9.1.1 Greedy Layer-wise Training of DBNs as a Continuation Method" ID="ID_1549507614" CREATED="1425688343382" MODIFIED="1425688343382" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="54" object_id="4604800662079835045" object_number="484" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="9.1.2 Unsupervised to Supervised Transition" ID="ID_284314546" CREATED="1425688343404" MODIFIED="1425688343404" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="54" object_id="8101368108074302708" object_number="482" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="9.1.3 Controlling Temperature" ID="ID_1412248260" CREATED="1425688343429" MODIFIED="1425688343429" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="55" object_id="8624600206089230514" object_number="483" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="9.1.4 Shaping: Training with a Curriculum" ID="ID_157630567" CREATED="1425688343453" MODIFIED="1425688343453" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="56" object_id="8173110287965530062" object_number="512" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="9.2 Why Unsupervised Learning is Important" ID="ID_833892620" CREATED="1425688343474" MODIFIED="1425688343475" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="57" object_id="6524392126364415643" object_number="478" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+<node TEXT="9.3 Open Questions" ID="ID_885324150" CREATED="1425688343492" MODIFIED="1425688343492" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="57" object_id="231558537825152541" object_number="377" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+<node TEXT="10 Conclusion" ID="ID_1611160363" CREATED="1425688343508" MODIFIED="1425688343508" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<pdf_annotation type="BOOKMARK" page="59" object_id="2466625922227592508" object_number="77" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
+    <pdf_title>Learning Deep Architectures for AI</pdf_title>
+</pdf_annotation>
+<attribute NAME="key" VALUE="Bengio2009"/>
+<attribute NAME="journal" VALUE="Found. trends&#x392;&#xae; Mach. Learn."/>
+<attribute NAME="year" VALUE="2009"/>
+<attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
+<attribute NAME="authors" VALUE="Bengio, Yoshua"/>
+</node>
+</node>
+</node>
+<node TEXT="Promise of DL" POSITION="right" ID="ID_201980601" CREATED="1425149283518" MODIFIED="1425571298043" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Idea: Automated feature extraction" ID="ID_1698692533" CREATED="1425149359765" MODIFIED="1425571298058" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
@@ -397,7 +1807,7 @@
 <node TEXT="One algorithm for many areas of application" ID="ID_776240796" CREATED="1425149419423" MODIFIED="1425571298101" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="3 Local vs Non-Local Generalization" ID="ID_239438699" CREATED="1425245326799" MODIFIED="1425571298110" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="3 Local vs Non-Local Generalization" ID="ID_239438699" CREATED="1425245326799" MODIFIED="1425777177684" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="11" object_id="7063256156503174988" object_number="344" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -407,7 +1817,7 @@
 <attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="3.1 The Limits of Matching Local Templates" ID="ID_1625203537" CREATED="1425245326819" MODIFIED="1425571298119" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="3.1 The Limits of Matching Local Templates" ID="ID_1625203537" CREATED="1425245326819" MODIFIED="1425777177567" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="11" object_id="2585814911762841508" object_number="413" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -418,7 +1828,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="3.2 Learning Distributed Representations" ID="ID_198265546" CREATED="1425245326837" MODIFIED="1425571298127" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="3.2 Learning Distributed Representations" ID="ID_198265546" CREATED="1425245326837" MODIFIED="1425777177709" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="14" object_id="6864814700703743591" object_number="411" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -430,7 +1840,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 </node>
-<node TEXT="2 Theoretical Advantages of Deep Architectures" ID="ID_752271189" CREATED="1425245326742" MODIFIED="1425571298135" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="2 Theoretical Advantages of Deep Architectures" ID="ID_752271189" CREATED="1425245326742" MODIFIED="1425777177667" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="6" object_id="8750592796150878274" object_number="295" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -440,7 +1850,7 @@
 <attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="2.1 Computational Complexity" ID="ID_548461735" CREATED="1425245326761" MODIFIED="1425571298145" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="2.1 Computational Complexity" ID="ID_548461735" CREATED="1425245326761" MODIFIED="1425777177555" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="8" object_id="2324682050510443012" object_number="345" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -451,7 +1861,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="2.2 Informal Arguments" ID="ID_1212334110" CREATED="1425245326780" MODIFIED="1425571298154" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="2.2 Informal Arguments" ID="ID_1212334110" CREATED="1425245326780" MODIFIED="1425777177248" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="10" object_id="932551783700206712" object_number="343" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -463,7 +1873,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 </node>
-<node TEXT="6 Greedy Layer-Wise Training of Deep Architectures" ID="ID_1137964914" CREATED="1425245327289" MODIFIED="1425571298166" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="6 Greedy Layer-Wise Training of Deep Architectures" ID="ID_1137964914" CREATED="1425245327289" MODIFIED="1425777177259" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="5317560480895690974" object_number="443" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -473,7 +1883,7 @@
 <attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="6.1 Layer-Wise Training of Deep Belief Networks" ID="ID_1568815723" CREATED="1425245327310" MODIFIED="1425571298178" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="6.1 Layer-Wise Training of Deep Belief Networks" ID="ID_1568815723" CREATED="1425245327310" MODIFIED="1425777177639" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="8819813332736031717" object_number="450" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -484,7 +1894,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="6.2 Training Stacked Auto-Encoders" ID="ID_405040147" CREATED="1425245327329" MODIFIED="1425571298190" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="6.2 Training Stacked Auto-Encoders" ID="ID_405040147" CREATED="1425245327329" MODIFIED="1425777177323" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="39" object_id="7914826442527452257" object_number="459" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -495,7 +1905,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="6.3 Semi-Supervised and Partially Supervised Training" ID="ID_1256279340" CREATED="1425245327348" MODIFIED="1425571298201" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="6.3 Semi-Supervised and Partially Supervised Training" ID="ID_1256279340" CREATED="1425245327348" MODIFIED="1425777177276" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="40" object_id="2924958922071653175" object_number="449" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -529,7 +1939,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 </node>
-<node TEXT="Basic ideas of DL" POSITION="right" ID="ID_1149215832" CREATED="1425149292319" MODIFIED="1425571298236" NUMBERED="true">
+<node TEXT="Basic ideas of DL" FOLDED="true" POSITION="right" ID="ID_1149215832" CREATED="1425149292319" MODIFIED="1425571298236" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Priors: Why DL may work and when" ID="ID_170043234" CREATED="1425149439815" MODIFIED="1425571298250" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
@@ -813,7 +2223,7 @@
 </node>
 <node TEXT="Different architectures" ID="ID_1061277961" CREATED="1425149672441" MODIFIED="1425571298509" NUMBERED="true" FORMAT="STANDARD_FORMAT">
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="4.3 Unsupervised Learning for Deep Architectures" ID="ID_1934079603" CREATED="1425245326924" MODIFIED="1425571298515" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="4.3 Unsupervised Learning for Deep Architectures" ID="ID_1934079603" CREATED="1425245326924" MODIFIED="1425777177605" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="21" object_id="3247310213724424419" object_number="468" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -1249,7 +2659,7 @@
 <attribute NAME="key" VALUE="Egmont-Petersen2002"/>
 <attribute NAME="journal" VALUE="Pattern Recognit."/>
 <attribute NAME="year" VALUE="2002"/>
-<attribute NAME="title" VALUE="{Image processing with neural networks&#x3b2;&#x20ac;&#x201d;a review}"/>
+<attribute NAME="title" VALUE="{Image processing with neural networks&#x2014;a review}"/>
 <attribute NAME="authors" VALUE="Egmont-Petersen, M. and de Ridder, D. and Handels, H."/>
 </node>
 <node TEXT="Krizhevsky, Sutskever, Hinton_2012_ImageNet Classification with Deep Convolutional Neural Networks.pdf" ID="ID_1948504229" CREATED="1425225873026" MODIFIED="1425225873026" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Krizhevsky,%20Sutskever,%20Hinton_2012_ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf">
@@ -2479,7 +3889,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Layer-wise greedy pre-training" ID="ID_1119287890" CREATED="1425150091499" MODIFIED="1425571298852" MOVED="1425150094891">
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="6 Greedy Layer-Wise Training of Deep Architectures" ID="ID_1048836526" CREATED="1425245327289" MODIFIED="1425571298859" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="6 Greedy Layer-Wise Training of Deep Architectures" ID="ID_1048836526" CREATED="1425245327289" MODIFIED="1425777177657" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="5317560480895690974" object_number="443" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -2489,7 +3899,7 @@
 <attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="6.1 Layer-Wise Training of Deep Belief Networks" ID="ID_411441684" CREATED="1425245327310" MODIFIED="1425571298867" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="6.1 Layer-Wise Training of Deep Belief Networks" ID="ID_411441684" CREATED="1425245327310" MODIFIED="1425777177226" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="37" object_id="8819813332736031717" object_number="450" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -2500,7 +3910,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="6.2 Training Stacked Auto-Encoders" ID="ID_289802128" CREATED="1425245327329" MODIFIED="1425571298878" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="6.2 Training Stacked Auto-Encoders" ID="ID_289802128" CREATED="1425245327329" MODIFIED="1425777177733" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="39" object_id="7914826442527452257" object_number="459" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -2511,7 +3921,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="6.3 Semi-Supervised and Partially Supervised Training" ID="ID_1371391708" CREATED="1425245327348" MODIFIED="1425571298887" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="6.3 Semi-Supervised and Partially Supervised Training" ID="ID_1371391708" CREATED="1425245327348" MODIFIED="1425777177722" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="40" object_id="2924958922071653175" object_number="449" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -3276,7 +4686,7 @@
 <node TEXT="Finding new areas of (commercial) application" ID="ID_1776292772" CREATED="1425150091414" MODIFIED="1425571299086" MOVED="1425150114792">
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="9 Looking Forward" ID="ID_1675956368" CREATED="1425245327692" MODIFIED="1425571299094" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="9 Looking Forward" ID="ID_1675956368" CREATED="1425245327692" MODIFIED="1425777177696" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="54" object_id="6520972588558461381" object_number="293" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -3286,7 +4696,7 @@
 <attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="9.1 Global Optimization Strategies" ID="ID_1162043015" CREATED="1425245327712" MODIFIED="1425571299102" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="9.1 Global Optimization Strategies" ID="ID_1162043015" CREATED="1425245327712" MODIFIED="1425777177525" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="54" object_id="8990804402768668729" object_number="341" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -3296,7 +4706,7 @@
 <attribute NAME="title" VALUE="{Learning deep architectures for AI}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="9.1.1 Greedy Layer-wise Training of DBNs as a Continuation Method" ID="ID_998152951" CREATED="1425245327734" MODIFIED="1425571299110" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="9.1.1 Greedy Layer-wise Training of DBNs as a Continuation Method" ID="ID_998152951" CREATED="1425245327734" MODIFIED="1425777177333" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="54" object_id="4604800662079835045" object_number="410" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -3307,7 +4717,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="9.1.2 Unsupervised to Supervised Transition" ID="ID_1935394668" CREATED="1425245327755" MODIFIED="1425571299118" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="9.1.2 Unsupervised to Supervised Transition" ID="ID_1935394668" CREATED="1425245327755" MODIFIED="1425777177574" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="54" object_id="8101368108074302708" object_number="408" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -3319,7 +4729,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 </node>
-<node TEXT="9.1.3 Controlling Temperature" ID="ID_50033482" CREATED="1425245327777" MODIFIED="1425571299125" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="9.1.3 Controlling Temperature" ID="ID_50033482" CREATED="1425245327777" MODIFIED="1425777177235" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="55" object_id="8624600206089230514" object_number="409" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -3330,7 +4740,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="9.1.4 Shaping: Training with a Curriculum" ID="ID_1784527840" CREATED="1425245327798" MODIFIED="1425571299134" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="9.1.4 Shaping: Training with a Curriculum" ID="ID_1784527840" CREATED="1425245327798" MODIFIED="1425777177745" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="56" object_id="8173110287965530062" object_number="438" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -3341,7 +4751,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="9.2 Why Unsupervised Learning is Important" ID="ID_613666465" CREATED="1425245327821" MODIFIED="1425571299144" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="9.2 Why Unsupervised Learning is Important" ID="ID_613666465" CREATED="1425245327821" MODIFIED="1425777177590" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="57" object_id="6524392126364415643" object_number="404" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>
@@ -3352,7 +4762,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="9.3 Open Questions" ID="ID_1175481307" CREATED="1425245327841" MODIFIED="1425571299153" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
+<node TEXT="9.3 Open Questions" ID="ID_1175481307" CREATED="1425245327841" MODIFIED="1425777177346" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="57" object_id="231558537825152541" object_number="339" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
 </pdf_annotation>

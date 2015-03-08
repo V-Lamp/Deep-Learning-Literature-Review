@@ -1,3 +1,4 @@
+% !TeX encoding = UTF-8
 \documentclass[a4paper]{report}
 \usepackage{graphicx}
 \usepackage[inline]{enumitem}
@@ -22,20 +23,37 @@
 	This section discusses what are the inherent limitations that exist in older, shallow architectures of Machine Learning algorithms. It provides a background to understand the breakthrough that was achieved with use deeper architectures and the motivation for their exploration. 	
 	\subsection{Limitations to local learning.}
 		A review from Bengio and LeCun \cite{Bengio2007} provides a structured explanation of these limitations, from a theoretical perspective. Their claim is that methods that rely on local kernels or/and the smoothness of the approximated function may need an exponential number of parameters to approximate the function that relates the input to the output.
+		Non-parametric and kernel based methods are shown to have an expected error that, for a given number of examples, rises exponentially to the number of dimensions \cite{Hardle2004}. This kind of relation, common to many linear or local approximators is the so called curse of dimensionality.
+		Indeed, kernel based methods make a trade-off between smoothness and locality. If the effective radius of a kernel is small, then a function with high variance can be approximated, but needs too many kernels to achieve it. If the kernels have a large effective radius the linear combination of them will be smooth and thus unable to represent a function with high variance or high curvature (though these two are related).
+		
+		The approximation of a point in most kernel based methods is a linear combination of the number of most dominant neighbours. Thus if the new sample lies in a space where there are no close training examples or kernels, the approximation will be ineffective. This motivates the exploration of distributed representation, where...
+		
+		It has to be highlighted that many practical problems do obey to the assumptions of this models, namely locality and smoothness, thus they have an effective accuracy in these. However, domains of great practical importance, are described by functions that do not seem to have these properties. 
+		
 		They classify non-deep algorithms to three main categories: 
 		\begin{enumerate*}
 			\item Fixed pre-processing plus linear predictor		
 			\item Template matchers plus linear predictor
 			\item Simple trainable basis functions plus linear predictor
-		\end{enumerate*}. 
-		In the first class, there is the need for a hand-crafted processing of the input so that it becomes more separable, to improve the accuracy of the classifier. 
+		\end{enumerate*}.
+
 	\subsection{Engineered feature selection and extraction}
-		One of the approaches to circumvent the limitations discussed previously is to simplify the input by applying a domain specific preprocessing. The aims of this step are to reduce the dimensions of the input and create a (more) separable and smooth structure of the data so that, when presented to an approximator, it can be more accurate. The problem for this approach that the process is domain specific\cite{Bengio2007}. For example, a system designed to recognise car should not  be able to recognise animals. Moreover, the development of such methods relies heavily on the intuition around the problem and thus requires domain expertise and it is a slow trial and error process, which is costly in human capital. Before the use deep architectures, most top performing methods involved domain-specific preprocessing, yet, when retrospectively compared with these on common benchmarking datasets for audio and visual problems, this approach produces results of lower accuracy \cite{Krizhevsky2012}
+		One of the approaches to circumvent the limitations discussed previously is to simplify the input by applying a domain specific preprocessing. To have a comparison with the above, this is equivalent to designing non-local kernels that are based on prior knowledge about the task. The aims of this step are to reduce the dimensions of the input and create a (more) separable and smooth structure of the data so that, when presented to an approximator, it can be more accurate. The problem for this approach that the process is domain specific\cite{Bengio2007}. For example, a system designed to recognise car should not  be able to recognise animals. Moreover, the development of such methods relies heavily on the intuition around the problem and thus requires domain expertise and it is a slow trial and error process, which is costly in human capital. Before the use deep architectures, most top performing methods involved domain-specific preprocessing, yet, when retrospectively compared with these on common benchmarking datasets for audio and visual problems, this approach produces results of lower accuracy \cite{Krizhevsky2012}.
 	
-	In summary, shallow architectures and local learning algorithms seem to need an infeasible amount of parameters to approximate the structure of the input in many important domains and  methods that are designed for one problem are not expected to be transferable in others.
-	\subsection{Back propagation and  the vanishing gradient}
-	
-\section{Promise of DL}	
+	In summary, shallow architectures and local learning algorithms seem to need an infeasible amount of parameters to approximate the structure of of functions with high curvature and methods that are designed for one problem are not expected to be transferable in others.
+	\subsection{Setbacks in investigation of deeper models}
+		Since the use of the above methods has the explained limitations yet they were the dominant approach, the natural question is why they remained the most dominant methods in domains that they may not be the most suitable approach. Before introducing the approach of deep architectures, it would be useful to discuss the main difficulties that seemed to keep the research community away from a more extensive investigation of this approach.
+		
+		The main problem faced when trying to train Neural Networks with many hidden layers is that during the training they exhibit the problem of the so called vanishing or exploding gradient that leads to poor accuracy. During the training process, the gradient that changes the weights of the lower layers gets very small or sometimes very large, preventing the effective training of these layers, which leads to a low accuracy of the whole Neural Network \cite{Bengio2009} This problem has been studied, with multiple possible explanations provided, beyond the current scope, discussed in \cite{Bengio2007}. The result of the above problem is that shallower architectures, due to their easier training, were outperforming deeper architectures. This is despite the fact that a network with n+1 layers can have in theory all the expressive power of a network with n layers, implying that it is the training method that is problematic rather than the architecture. This obstacle was overtaken by a greedy layer-wise training method, that could be said that marks the beginning of Deep Learning, and will be explained at \textbf{REF}. It has to be mentioned though that Convolutional Neural Networks, probably due their specific, constrained architecture, were able to have multiple layers, yet were trained without the aforementioned method. 
+		
+		3-layer NN are global approximators. But how efficiently?
+		It has been proven \textbf{CITE} that three-layer Neural Networks can approximate any continuous(?)  function, given that they have an appropriate number of hidden units.
+		In many cases though, the needed number of hidden units  is impractical. Further studies have shown that deeper architectures can approximate functions much more efficiently, using fewer parameters.
+		
+		The combination that deeper 
+		
+\section{Promise of DL}
+	Since the breakthrough of being able to train deeper architectures is rather recent in academic terms, less that 10 years, it is interesting to discuss what are the main benefits brought by it.
 	\subsection{Idea: Automated feature extraction}
 	\subsection{Benefits in quality}
 	\subsection{Benefits in time}
@@ -59,7 +77,7 @@
 	\subsection{Computer Vision}
 		The general problem in this field is could be described by the question "how to reason about the contents of an image". 
 		The most common and well studied problem from a machine learning perspective is to classify the image, that is to assign one or more labels from a given set, that are usually meant to describe the contents of the image, for example "face", "car", "1". This is arguably the most studied problem in the deep learning literature.
-		Other common problems are image segmentation and object detection. In where the image is to be separated into sensible areas based on the content, for example separating the patches that contain each letter out of a written word. Another is object detection where an object is to be recognised and located in the image.
+		Other common problems are image segmentation and object detection. In where the image is to be separated into sensible areas based on the content, for example separating the patches that contain each letter out of a written word. Another is Object Detection where an object is to be recognised and located in the image.
 		
 		There are some inherent challenges in object recognition. The output should be independent of variations in the input image, like translation, rotation, scaling and other distortions of the image. Also, objects may be partially obstructed by others, and have a noisy background. To give an example of these challenges, humans can recognise an upside-down car in any (visible) scale and in any position on an image, even if some part of it is hidden and the car is in a junk-yard (a noisy background). An ideal object recognition system should be able to match these abilities of the human visual cortex, achieving an invariance to input distortions. 
 		
