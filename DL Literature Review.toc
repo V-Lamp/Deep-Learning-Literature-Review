@@ -1,50 +1,46 @@
-\contentsline {section}{\numberline {0.1}Intro to ML}{1}
-\contentsline {section}{\numberline {0.2}Limitations of shallow architectures}{1}
-\contentsline {subsection}{\numberline {0.2.1}Limitations to local learning.}{1}
-\contentsline {subsection}{\numberline {0.2.2}Engineered feature selection and extraction}{1}
-\contentsline {subsection}{\numberline {0.2.3}Setbacks in investigation of deeper models}{2}
-\contentsline {section}{\numberline {0.3}Promise of DL}{2}
-\contentsline {subsection}{\numberline {0.3.1}Idea: Automated feature extraction}{3}
-\contentsline {subsection}{\numberline {0.3.2}Benefits in quality}{3}
-\contentsline {subsection}{\numberline {0.3.3}Benefits in time}{3}
-\contentsline {subsection}{\numberline {0.3.4}Enabling new applications (multi-modal)}{3}
-\contentsline {subsection}{\numberline {0.3.5}End-to-end ML}{3}
-\contentsline {subsection}{\numberline {0.3.6}One algorithm for many areas of application}{3}
-\contentsline {section}{\numberline {0.4}Basic ideas of DL}{3}
-\contentsline {subsection}{\numberline {0.4.1}The very generic/abstract deep architecture (just so the reader can follow the rest)}{3}
-\contentsline {subsection}{\numberline {0.4.2}Priors: Why DL may work and when}{3}
-\contentsline {subsection}{\numberline {0.4.3}Why unsupervised pre training is helping. Different hypotheses}{3}
-\contentsline {subsection}{\numberline {0.4.4}More}{3}
-\contentsline {section}{\numberline {0.5}Comparison of DL methods}{3}
-\contentsline {subsection}{\numberline {0.5.1}Computer Vision}{3}
-\contentsline {paragraph}{Deep Architectures for Object Recognition}{4}
-\contentsline {subsubsection}{Convolutional neural networks}{4}
-\contentsline {paragraph}{Main Ideas}{4}
-\contentsline {subsection}{\numberline {0.5.2}Most popular fields of application (Brief intro so that it provides context to the architectures that follow)}{5}
-\contentsline {subsubsection}{Computer vision}{5}
-\contentsline {subsubsection}{Voice recognition}{5}
-\contentsline {subsubsection}{Machine translation}{5}
-\contentsline {subsubsection}{Document classification}{5}
-\contentsline {subsubsection}{Multi-modal applications}{5}
-\contentsline {subsection}{\numberline {0.5.3}Different architectures}{5}
-\contentsline {subsubsection}{Deep neural networks}{5}
-\contentsline {subsubsection}{Deep belief networks}{5}
-\contentsline {subsubsection}{Convolutional Deep Belief Networks}{6}
-\contentsline {subsubsection}{Deep Boltzmann Machines}{6}
-\contentsline {subsubsection}{Stacked (Denoising) Auto-Encoders}{6}
-\contentsline {subsubsection}{Compound Hierarchical-Deep Models}{6}
-\contentsline {subsubsection}{Deep Coding Networks}{6}
-\contentsline {subsubsection}{Deep Kernel Machines}{6}
-\contentsline {subsection}{\numberline {0.5.4}Popular architectures for each field}{6}
-\contentsline {section}{\numberline {0.6}Notable ideas on implementing popular deep architectures}{6}
-\contentsline {subsection}{\numberline {0.6.1}Layer-wise greedy pre-training}{6}
-\contentsline {subsection}{\numberline {0.6.2}Regularisation methods}{6}
-\contentsline {subsubsection}{Dropout}{6}
-\contentsline {section}{\numberline {0.7}Critique and weaknesses}{6}
-\contentsline {section}{\numberline {0.8}Remaining challenges}{6}
-\contentsline {subsection}{\numberline {0.8.1}Scaling up}{6}
-\contentsline {subsection}{\numberline {0.8.2}Distributed training}{6}
-\contentsline {subsection}{\numberline {0.8.3}Developing intuition and understanding of DL}{6}
-\contentsline {subsection}{\numberline {0.8.4}Finding new areas of (commercial) application}{6}
-\contentsline {section}{\numberline {0.9}Commercial applications of DL}{6}
-\contentsline {subsection}{\numberline {0.9.1}Companies and how they too promote the research}{6}
+\contentsline {section}{\numberline {0.1}Introduction}{1}{section.0.1}
+\contentsline {section}{\numberline {0.2}Limitations of other Machine Learning approaches}{1}{section.0.2}
+\contentsline {subsection}{\numberline {0.2.1}Limitations to local learning.}{1}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {0.2.2}Engineered feature selection and extraction}{2}{subsection.0.2.2}
+\contentsline {subsection}{\numberline {0.2.3}Setbacks in investigation of deeper models}{2}{subsection.0.2.3}
+\contentsline {section}{\numberline {0.3}Promise of DL}{3}{section.0.3}
+\contentsline {subsection}{\numberline {0.3.1}Idea: Automated feature extraction}{3}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {0.3.2}Benefits in quality}{3}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {0.3.3}Benefits in time}{3}{subsection.0.3.3}
+\contentsline {subsection}{\numberline {0.3.4}Enabling new applications (multi-modal)}{3}{subsection.0.3.4}
+\contentsline {subsection}{\numberline {0.3.5}End-to-end ML}{3}{subsection.0.3.5}
+\contentsline {subsection}{\numberline {0.3.6}One algorithm for many areas of application}{3}{subsection.0.3.6}
+\contentsline {section}{\numberline {0.4}Basic ideas of DL}{3}{section.0.4}
+\contentsline {subsection}{\numberline {0.4.1}The very generic/abstract deep architecture (just so the reader can follow the rest)}{3}{subsection.0.4.1}
+\contentsline {subsection}{\numberline {0.4.2}Priors: Why DL may work and when}{3}{subsection.0.4.2}
+\contentsline {subsection}{\numberline {0.4.3}Why unsupervised pre training is helping. Different hypotheses}{3}{subsection.0.4.3}
+\contentsline {subsection}{\numberline {0.4.4}More}{3}{subsection.0.4.4}
+\contentsline {section}{\numberline {0.5}Comparison of DL methods}{3}{section.0.5}
+\contentsline {subsection}{\numberline {0.5.1}Computer Vision}{4}{subsection.0.5.1}
+\contentsline {paragraph}{Deep Architectures for Object Recognition}{4}{section*.5}
+\contentsline {subsubsection}{Supervised Learning: Convolutional Neural Networks}{4}{section*.6}
+\contentsline {subsection}{\numberline {0.5.2}Most popular fields of application (Brief intro so that it provides context to the architectures that follow)}{6}{subsection.0.5.2}
+\contentsline {subsubsection}{Computer vision}{6}{section*.9}
+\contentsline {subsubsection}{Voice recognition}{6}{section*.10}
+\contentsline {subsubsection}{Machine translation}{6}{section*.11}
+\contentsline {subsubsection}{Document classification}{6}{section*.12}
+\contentsline {subsubsection}{Multi-modal applications}{6}{section*.13}
+\contentsline {subsection}{\numberline {0.5.3}Different architectures}{6}{subsection.0.5.3}
+\contentsline {subsubsection}{Deep Recurrent Neural Networks}{6}{section*.14}
+\contentsline {subsubsection}{Deep belief networks}{6}{section*.15}
+\contentsline {subsubsection}{Convolutional Deep Belief Networks}{7}{section*.16}
+\contentsline {subsubsection}{Deep Boltzmann Machines}{7}{section*.17}
+\contentsline {subsubsection}{Stacked (Denoising) Auto-Encoders}{7}{section*.18}
+\contentsline {subsection}{\numberline {0.5.4}Popular architectures for each field}{7}{subsection.0.5.4}
+\contentsline {section}{\numberline {0.6}Notable ideas on implementing popular deep architectures}{7}{section.0.6}
+\contentsline {subsection}{\numberline {0.6.1}Layer-wise greedy pre-training}{7}{subsection.0.6.1}
+\contentsline {subsection}{\numberline {0.6.2}Regularisation methods}{7}{subsection.0.6.2}
+\contentsline {subsubsection}{Dropout}{7}{section*.19}
+\contentsline {section}{\numberline {0.7}Critique and weaknesses}{7}{section.0.7}
+\contentsline {section}{\numberline {0.8}Remaining challenges}{7}{section.0.8}
+\contentsline {subsection}{\numberline {0.8.1}Scaling up}{7}{subsection.0.8.1}
+\contentsline {subsection}{\numberline {0.8.2}Distributed training}{7}{subsection.0.8.2}
+\contentsline {subsection}{\numberline {0.8.3}Developing intuition and understanding of DL}{7}{subsection.0.8.3}
+\contentsline {subsection}{\numberline {0.8.4}Finding new areas of (commercial) application}{7}{subsection.0.8.4}
+\contentsline {section}{\numberline {0.9}Commercial applications of DL}{7}{section.0.9}
+\contentsline {subsection}{\numberline {0.9.1}Companies and how they too promote the research}{7}{subsection.0.9.1}

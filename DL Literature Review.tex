@@ -2,7 +2,12 @@
 \documentclass[a4paper]{report}
 \usepackage{graphicx}
 \usepackage[inline]{enumitem}
-%\usepackage{todonotes}
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+
+\usepackage{todonotes}
+%To disable notes:
+%\usepackage[disable]{todonotes}
 %opening
 \author{Vasileios Lampridis	(1465093)}
 \title{A review of Deep Learning methods}
@@ -15,20 +20,20 @@
 \maketitle
 
 \begin{abstract}
-
+This paper reviews the highly interesting domain of Deep Machine Learning, with the purpose of providing the practical information about the field. It attempts to provide an answer to two common questions that a practitioner of Machine Learning could have, namely 1) when a Deep Learning approach should be examined and 2) what architectures should be tried for a given task.
 \end{abstract}
 
-\section{Intro to ML}
-\section{Limitations of shallow architectures}
-	This section discusses what are the inherent limitations that exist in older, shallow architectures of Machine Learning algorithms. It provides a background to understand the breakthrough that was achieved with use deeper architectures and the motivation for their exploration. 	
+\section{Introduction}
+\section{Limitations of other Machine Learning approaches}
+	This section discusses what are the inherent limitations that exist in shallow architectures, meaning the more "traditional" Machine Learning algorithms. It provides a short explanation of what separates them from deeper It provides a background to understand the breakthrough that was achieved with use deeper architectures and the motivation for their exploration. Also, it is useful for a practitioner of Machine Learning to be able to evaluate whether it would 
 	\subsection{Limitations to local learning.}
-		A review from Bengio and LeCun \cite{Bengio2007} provides a structured explanation of these limitations, from a theoretical perspective. Their claim is that methods that rely on local kernels or/and the smoothness of the approximated function may need an exponential number of parameters to approximate the function that relates the input to the output.
+		An enlightening review from Bengio and LeCun \cite{Bengio2007} provides a structured explanation of these limitations, from a theoretical perspective. Their claim is that methods that rely on local kernels may need an exponential number of parameters to approximate the function that relates the input to the output, if the function does not follow certain assumptions. This class of methods includes generally successful algorithms, like Support Vector Machines \cite{Boser1992,Cortes1995} and Gaussian Processes \cite{Williams2006}.
 		Non-parametric and kernel based methods are shown to have an expected error that, for a given number of examples, rises exponentially to the number of dimensions \cite{Hardle2004}. This kind of relation, common to many linear or local approximators is the so called curse of dimensionality.
 		Indeed, kernel based methods make a trade-off between smoothness and locality. If the effective radius of a kernel is small, then a function with high variance can be approximated, but needs too many kernels to achieve it. If the kernels have a large effective radius the linear combination of them will be smooth and thus unable to represent a function with high variance or high curvature (though these two are related).
 		
-		The approximation of a point in most kernel based methods is a linear combination of the number of most dominant neighbours. Thus if the new sample lies in a space where there are no close training examples or kernels, the approximation will be ineffective. This motivates the exploration of distributed representation, where...
+		The approximation of a point in most kernel based methods is a linear combination of the number of most dominant neighbours. Thus if the new sample lies in a space where there are no close training examples, and the function is not smooth enough to be effectively extrapolated using more distant examples the approximation will be ineffective.
 		
-		It has to be highlighted that many practical problems do obey to the assumptions of this models, namely locality and smoothness, thus they have an effective accuracy in these. However, domains of great practical importance, are described by functions that do not seem to have these properties. 
+		It has to be highlighted that many practical problems do obey to the smoothness assumptions of this models, thus kernel based models have an effective accuracy and would probably be the most suitable method to use. Additionally, in order Deep Learning methods to be effective, there has to be some underlying pattern that if captured will provide a better approximation. If no such pattern exists, then no method should perform better than local learning \cite{Bengio2009}.Thus, Deep Learning is not a panacea. However, domains of great practical importance, like computer vision, are described by functions that do not seem to be smooth but have underlying patterns.
 		
 		They classify non-deep algorithms to three main categories: 
 		\begin{enumerate*}
@@ -38,16 +43,18 @@
 		\end{enumerate*}.
 
 	\subsection{Engineered feature selection and extraction}
-		One of the approaches to circumvent the limitations discussed previously is to simplify the input by applying a domain specific preprocessing. To have a comparison with the above, this is equivalent to designing non-local kernels that are based on prior knowledge about the task. The aims of this step are to reduce the dimensions of the input and create a (more) separable and smooth structure of the data so that, when presented to an approximator, it can be more accurate. The problem for this approach that the process is domain specific\cite{Bengio2007}. For example, a system designed to recognise car should not  be able to recognise animals. Moreover, the development of such methods relies heavily on the intuition around the problem and thus requires domain expertise and it is a slow trial and error process, which is costly in human capital. Before the use deep architectures, most top performing methods involved domain-specific preprocessing, yet, when retrospectively compared with these on common benchmarking datasets for audio and visual problems, this approach produces results of lower accuracy \cite{Krizhevsky2012}.
+		One of the approaches to circumvent the limitations discussed previously is to simplify the input by applying a domain specific preprocessing. To have a comparison with the above, this is equivalent to designing non-local kernels that are based on prior knowledge about the task. The aims of this step are to reduce the dimensions of the input and create a (more) separable and smooth structure of the data so that, when presented to an approximator, it can be more accurate. The problem for this approach that the process is domain specific\cite{Bengio2007}. For example, a system designed to recognise car should not  be able to recognise animals. Moreover, the development of such methods relies heavily on the intuition around the problem and thus requires domain expertise and it is a slow trial and error process, which is costly in human capital. Before the use deep architectures, most top performing methods involved domain-specific preprocessing, yet, when retrospectively compared with these on common benchmarking datasets for audio and visual problems, this approach produces results of lower accuracy \cite{Krizhevsky2012}. 
+		
+		A pattern that has to be emphasised here is that the biggest successes of Deep Learning are on domains that we have limited intuition about the form of the function to be approximated, like tasks in vision, audio recognition and language. Arguably though, engineered feature extraction makes perfect sense in domains that we have explicit knowledge about the relation of the input and the output. One could try and train a machine to retrieve the content out of an HTML page, but since it known exactly how HTML works, it is much easier and more effective to extract the content using an engineered method like a web scraping tool.
 	
 	In summary, shallow architectures and local learning algorithms seem to need an infeasible amount of parameters to approximate the structure of of functions with high curvature and methods that are designed for one problem are not expected to be transferable in others.
 	\subsection{Setbacks in investigation of deeper models}
-		Since the use of the above methods has the explained limitations yet they were the dominant approach, the natural question is why they remained the most dominant methods in domains that they may not be the most suitable approach. Before introducing the approach of deep architectures, it would be useful to discuss the main difficulties that seemed to keep the research community away from a more extensive investigation of this approach.
+		Since the use of the above methods has the above limitations yet they were the dominant approach, the natural question is why they remained the most dominant methods in domains that they may not have been the most suitable approach. Before introducing the approach of deep architectures, it would be useful to discuss the main difficulties that seemed to keep the research community away from a more extensive investigation of this approach.
 		
-		The main problem faced when trying to train Neural Networks with many hidden layers is that during the training they exhibit the problem of the so called vanishing or exploding gradient that leads to poor accuracy. During the training process, the gradient that changes the weights of the lower layers gets very small or sometimes very large, preventing the effective training of these layers, which leads to a low accuracy of the whole Neural Network \cite{Bengio2009} This problem has been studied, with multiple possible explanations provided, beyond the current scope, discussed in \cite{Bengio2007}. The result of the above problem is that shallower architectures, due to their easier training, were outperforming deeper architectures. This is despite the fact that a network with n+1 layers can have in theory all the expressive power of a network with n layers, implying that it is the training method that is problematic rather than the architecture. This obstacle was overtaken by a greedy layer-wise training method, that could be said that marks the beginning of Deep Learning, and will be explained at \textbf{REF}. It has to be mentioned though that Convolutional Neural Networks, probably due their specific, constrained architecture, were able to have multiple layers, yet were trained without the aforementioned method. 
+		The main problem faced when trying to train Neural Networks with many hidden layers is that during the training they exhibit the problem of the so called vanishing or exploding gradient that leads to poor accuracy. During the training process, the gradient that changes the weights of the lower layers gets very small or sometimes very large, preventing the effective training of these layers, which leads to a low accuracy of the whole Neural Network \cite{Bengio2009} This problem has been studied, with multiple possible explanations provided, beyond the current scope, discussed in \cite{Bengio2007}. The result of the above problem is that shallower architectures, due to their easier training, were outperforming deeper architectures. This is despite the fact that a network with n+1 layers can have in theory all the expressive power of a network with n layers, implying that it is the training method that is problematic rather than the architecture. This obstacle was overtaken by a greedy layer-wise training method, that could be said that marks the beginning of Deep Learning, and will be explained at \todo{REF}. It has to be mentioned though that Convolutional Neural Networks, probably due their specific, constrained architecture, were able to have multiple layers, yet were trained without the aforementioned method. 
 		
 		3-layer NN are global approximators. But how efficiently?
-		It has been proven \textbf{CITE} that three-layer Neural Networks can approximate any continuous(?)  function, given that they have an appropriate number of hidden units.
+		It has been proven \todo{CITE} that three-layer Neural Networks can approximate any continuous(?)  function, given that they have an appropriate number of hidden units.
 		In many cases though, the needed number of hidden units  is impractical. Further studies have shown that deeper architectures can approximate functions much more efficiently, using fewer parameters.
 		
 		The combination that deeper 
@@ -89,22 +96,26 @@
 		Translation
 			Pooling layer
 		Rotation?
-		\subsubsection{Convolutional neural networks}
-		Convolutional Neural Networks, commonly abbreviated as CNN, are one of the earliest successes of deep architectures, that achieved some level of automated feature extraction \cite{LeCun1990} for object recognition tasks in image processing.The first such architecture is introduced at 1980, when \cite{Fukushima1980} proposed a network named "Neocognitron". The aim of this network was to explore possible computational models of the visual cortex of the brain, for purpose of improving the understanding of the function of the cortex.
-		The early applications of Convolutional Neural Networks was on handwritten digit recognition\cite{LeCun1989,LeCun1990,Lecun1995}, face recognition \cite{Lawrence1997} and document recognition \cite{LeCun1998}. Today, they are the most one of the most popular solutions for image processing tasks, with outstanding results in benchmarking datasets like ImageNet \cite{Krizhevsky2012}. They
-		$ f(x) = x  $
-		\paragraph{Main Ideas}			
-		There are a number of key ideas that are common in the majority of the variations of this architecture, that are summarised below and will be further explained. They are described by \cite{LeCun1989,LeCun1990}.
-		\begin{itemize}
-			\item They achieve end-to-end classification, meaning that the input is a 2-dimensional array of image pixels and the output is of the desired form, usually one or more labels that describe the input image. No prior feature extraction is required.
-			\item Each layer is arranged as a two-dimensional, usually square, matrix of computational units, rather than a vector. This is chosen in order to exploit the prior knowledge that nearby pixels in the input image probably carry related information.
-			\item There are shared weights in each layer. In each layer, the weights are identically applied to all parts of the input. That is what explains the name of CNN, since this means that the 2-dimensional input is \textit{convolved} with a kernel to produce the output of the layer. This is exploiting the assumption that a filter that is useful in one part of the image is probably useful in other parts of it.
-			\item There is an alternation of two types of layers. One is extracting features by convolving the input of the layer with a kernel. The other is subsampling the output of the first layer to achieve some invariance. This alternation is what achieves the translation invariance in the image, meaning that a small sift of the object in the image should not affect the output of the network.
-			\item They have multiple couples of layers. This characteristic exploits the assumption that the input is compositional, meaning that complex structures are created by composing multiple simpler structures. This is a common theme in deep architectures. \textbf{REF}
-		\end{itemize}	 
+		There are two main approaches to object recognition in the Deep Learning literature. The former is using unsupervised pre-training to extract a more compact representation of the input. The other is using supervised training of the whole architecture at the same time, although minor improvements to accuracy have been achieved with some form of unsupervised pre-training.
+		\subsubsection{Supervised Learning: Convolutional Neural Networks}			
+			The architecture that dominates the (purely) supervised methods in this domain is Convolutional Neural Networks. It is an architecture initially inspired by models of the visual cortex of the brain \cite{Fukushima1980}, and is,thus, designed using simple priors about the structure of visual information (images). It is unique in the family of deep architectures in the sense that it does not need a layer-wise pre-training to converge to accurate solutions. It has acquired great attention due to the large error reduction that variations of it have achieved in recognised computer vision challenges like ImageNet \todo{CITE imageNet}. A thorough description of the architecture is beyond the scope of this work. Excellent descriptions provided of older implementations are provided in \cite{LeCun1989,LeCun1990,Lecun1995} \todo{Y. LeCun, L. Bottou, Y. Bengio, and P. Haﬀner. Gradient-based learn-
+				ing applied to document recognition. Proceedings of the IEEE, 86:2278–
+				2324, 1998.}, which convey well the most important ideas around their design. Later architectures, that achieved the above breakthroughs are explained in \cite{Krizhevsky2012}.
+						
+			\missingfigure{CNN architecture}
+			Some core concepts are listed, along with the assumptions that their choice imply, with the aim of explaining the design choices of a Convolutional Neural Network, rather than its functionality.
+			\begin{itemize}
+				\item Similarly with other deep architectures, they have successive layers of similar functionality that aims to learn progressively more complex and specific features, with the last layer representing categories. A aspects that separates them is that there are no completely separate feature extraction and classification modules.
+				\item Every layer gets as input a two dimensional array, and all operations are done in patches of this input. This exploits the prior that pixels that are close carry related information.
+				\item There is an alternation of two types of layers with different roles. Thus each new level of abstraction is be achieved by a couple of these layers. These are 1) the convolution and 2) the subsampling or pooling layer. In a convolution layer there are multiple non-linear transformations of the input (image or feature matrix), each one creating a different output matrix. In a subsampling layer each of the outputs of the previous layer is down-sampled  by a procedure over non-overlapping regions of the input. This procedure is usually an averaging or maxing the input patch, creating a single output, thus the down-sampling. Because of the consecutive averaging of maxing procedures, the output become increasingly tolerant , in other words invariant, to small variations of the input. A tolerance to such changes is one of the core challenges in object recognition.
+				\item Closely related to the above, the receptive field of each successive layer grows larger, because of the down-sampling. The higher the layer, the larger the patch of the original image that affects the value of a "pixel" in this layer.  Thus, convolution extracts features, while pooling recombines the extracted information in a more meaningful way. Together they extract specific features over the whole the image.
+				\item There are shared weights in each layer. In each layer, the weights are identically applied to all parts of the input. That is what explains the name of CNN, since this means that the 2-dimensional input is \textit{convolved} with a small matrix of weights to produce the output of the layer, acting like a filter. This is exploiting the assumption that a filter that is useful in one part of the image is probably useful in other parts of it. This design choice vastly decreases the number of trainable parameters and is the most probable explanation for the comparably easy training of the network.
+			\end{itemize}
+		\subsubsection{Unsupervised pre-training}
+		Another popular approach to image classification, especially before the domination of the field by Convolutional Neural Networks in the recent years, was to have a an architecture with separate feature extraction and classification. The feature extraction module is trained in unsupervised way in order to learn a compact and invariant representation of the input. Then supervised training is use to jointly train both modules, where the unsupervised module is calibrated for a more discriminative representation along with the training of the classifier of choice. Two deep feature extraction architectures are mainly used: 1) Stacked autoencoders and 2)
 		
 		
-		
+			
 	\subsection{Most popular fields of application (Brief intro so that it provides context to the architectures that follow)}
 		\subsubsection{Computer vision}
 		\subsubsection{Voice recognition}
@@ -114,23 +125,12 @@
 			□ Text-image
 			□ Sound-image/video
 	\subsection{Different architectures}
-		\subsubsection{Deep neural networks}		
+		\subsubsection{Deep Recurrent Neural Networks}		
 		\subsubsection{Deep belief networks}
-		
-						
 			The following part will describe the generic architecture of Convolutional Neural Networks and further explain the above points.
-
-			
-
-			
-			
-			
 		\subsubsection{Convolutional Deep Belief Networks}
 		\subsubsection{Deep Boltzmann Machines}
 		\subsubsection{Stacked (Denoising) Auto-Encoders}
-		\subsubsection{Compound Hierarchical-Deep Models}
-		\subsubsection{Deep Coding Networks}
-		\subsubsection{Deep Kernel Machines}
 	\subsection{Popular architectures for each field}
 \section{Notable ideas on implementing popular deep architectures}
 	\subsection{Layer-wise greedy pre-training}

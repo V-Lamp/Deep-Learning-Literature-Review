@@ -1,0 +1,11 @@
+	\section{CNN}
+		The early applications of Convolutional Neural Networks was on handwritten digit recognition\cite{LeCun1989,LeCun1990,Lecun1995}, face recognition \cite{Lawrence1997} and document recognition \cite{LeCun1998}. Today, they are the most one of the most popular solutions for image processing tasks, with outstanding results in benchmarking datasets like ImageNet \cite{Krizhevsky2012}.		
+		\paragraph{Main Ideas}			
+		There are a number of key ideas that are common in the majority of the variations of this architecture, that are summarised below and will be further explained. They are described by 
+		\begin{itemize}
+			\item They achieve end-to-end classification, meaning that the input is a 2-dimensional array of image pixels and the output is of the desired form, usually one or more labels that describe the input image. No previous feature extraction is used.
+			\item Each layer is arranged as a two-dimensional, usually square, matrix of computational units, rather than a vector. This is chosen in order to exploit the prior knowledge that nearby pixels in the input image probably carry related information.
+			\item There are shared weights in each layer. In each layer, the weights are identically applied to all parts of the input. That is what explains the name of CNN, since this means that the 2-dimensional input is \textit{convolved} with a kernel to produce the output of the layer. This is exploiting the assumption that a filter that is useful in one part of the image is probably useful in other parts of it.
+			\item There is an alternation of two types of layers. One is extracting features by convolving the input of the layer with a kernel. The other is subsampling the output of the first layer to achieve some invariance. This alternation is what achieves the translation invariance in the image, meaning that a small sift of the object in the image should not affect the output of the network.
+			\item They have multiple couples of layers. This characteristic exploits the assumption that the input is compositional, meaning that complex structures are created by composing multiple simpler structures. This is a common theme in deep architectures. \todo[inline]{REF}
+		\end{itemize}	 

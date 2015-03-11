@@ -54,26 +54,11 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Intro to ML" POSITION="right" ID="ID_1578457928" CREATED="1425149264190" MODIFIED="1425571297762" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="Intro test note" ID="ID_1542004510" CREATED="1425216720959" MODIFIED="1425571297776">
-<attribute NAME="ReadIt" VALUE="F"/>
-</node>
 </node>
 <node TEXT="Limitations of ML" POSITION="right" ID="ID_667259809" CREATED="1425149274105" MODIFIED="1425571297786" NUMBERED="true">
 <attribute_layout NAME_WIDTH="73" VALUE_WIDTH="73"/>
 <attribute NAME="ReadIt" VALUE="T"/>
 <attribute NAME="ReadIt" VALUE="F"/>
-<node TEXT="Input to a classifier to be separable" ID="ID_1129279717" CREATED="1425149305859" MODIFIED="1425571297801" NUMBERED="true">
-<attribute NAME="ReadIt" VALUE="F"/>
-</node>
-<node TEXT="Engineered feature selection &amp; extraction" ID="ID_1807536680" CREATED="1425149319918" MODIFIED="1425571297812" NUMBERED="true">
-<attribute NAME="ReadIt" VALUE="F"/>
-</node>
-<node TEXT="Back propagation and  the vanishing gradient" ID="ID_591183598" CREATED="1425149330082" MODIFIED="1425571297821" NUMBERED="true">
-<attribute NAME="ReadIt" VALUE="F"/>
-</node>
-<node TEXT="Credit assignment paths" ID="ID_96053482" CREATED="1425149342760" MODIFIED="1425571297829" NUMBERED="true">
-<attribute NAME="ReadIt" VALUE="F"/>
-</node>
 <node TEXT="3.1 The Limits of Matching Local Templates" ID="ID_622537998" CREATED="1425245326819" MODIFIED="1425777177543" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2009_Learning%20deep%20architectures%20for%20AI.pdf">
 <pdf_annotation type="BOOKMARK" page="11" object_id="2585814911762841508" object_number="413" document_hash="3EC78A1F011D9D7F7E2BC875505F9DEE7071F3B8C85777A6C7231E50D1D1D6">
     <pdf_title>Learning Deep Architectures for AI</pdf_title>
@@ -187,7 +172,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1704474010" CREATED="1425576159123" MODIFIED="1425576172632"><richcontent TYPE="NODE">
@@ -202,7 +186,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="In Type-3 shallow architectures, the &#xfb01;rst layer consists of simple basis functions that are trainable through supervised learning. This can improve the ef&#xfb01;ciency of the function representation, by tuning the basis functions to a task. Simple trainable basis functions include linear combinations followed by point-wise non-linearities and Gaussian radial-basis funtions (RBF)." ID="ID_878107518" CREATED="1425573667181" MODIFIED="1425573667181" MOVED="1425609299722"/>
@@ -263,7 +246,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="Hence the limitations of kernel machines are not just due to their shallowness, but also to the local character of their response function (local in input space, not in the space of image coordinates)." ID="ID_1320432199" CREATED="1425580031789" MODIFIED="1425580042004"/>
@@ -395,7 +377,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
@@ -1787,7 +1768,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Promise of DL" POSITION="right" ID="ID_201980601" CREATED="1425149283518" MODIFIED="1425571298043" NUMBERED="true">
+<node TEXT="Promise of DL" FOLDED="true" POSITION="right" ID="ID_201980601" CREATED="1425149283518" MODIFIED="1425571298043" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Idea: Automated feature extraction" ID="ID_1698692533" CREATED="1425149359765" MODIFIED="1425571298058" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
@@ -2180,7 +2161,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 </node>
-<node TEXT="Comparison of DL methods" POSITION="right" ID="ID_1445238435" CREATED="1425149568000" MODIFIED="1425571298451" NUMBERED="true">
+<node TEXT="Comparison of DL methods" FOLDED="true" POSITION="right" ID="ID_1445238435" CREATED="1425149568000" MODIFIED="1425571298451" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Most popular fields of application" ID="ID_1751230968" CREATED="1425149599819" MODIFIED="1425571298459" NUMBERED="true" FORMAT="STANDARD_FORMAT"><richcontent TYPE="NOTE">
 
@@ -2534,7 +2515,7 @@
 <node TEXT="[162] G. Hinton, A. Krizhevsky, and S. Wang. Transforming autoencoders. In&#xa;Proceedings of International Conference on Arti&#xfb01;cial Neural Networks.&#xa;2011." ID="ID_1689817666" CREATED="1425241197935" MODIFIED="1425241215234"/>
 </node>
 </node>
-<node TEXT="ConvNets" FOLDED="true" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1425571298558" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="ConvNets" FOLDED="true" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1425822853750" DCR_PRIVACY_LEVEL="DEMO">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="2.1 Deep Supervised Nets, Convolutional Nets, Dropout" ID="ID_355060604" CREATED="1425244440105" MODIFIED="1425244440105" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2013_Deep%20Learning%20of%20Representations%20Looking%20Forward.pdf" MOVED="1425312438692">
 <pdf_annotation type="BOOKMARK" page="2" object_id="3790115478617257702" object_number="146" document_hash="4B9713DA2DD65D90417B9DAEA7965DB19C92088D1AB981CA45ABC9B25313">
@@ -4672,7 +4653,7 @@
 <node TEXT="Critique and weaknesses" POSITION="left" ID="ID_1723555906" CREATED="1425150091469" MODIFIED="1425571299039" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="Remaining challenges" POSITION="left" ID="ID_1221974905" CREATED="1425150091458" MODIFIED="1425571299050" NUMBERED="true">
+<node TEXT="Remaining challenges" FOLDED="true" POSITION="left" ID="ID_1221974905" CREATED="1425150091458" MODIFIED="1425571299050" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Scaling up" ID="ID_588898077" CREATED="1425150091449" MODIFIED="1425571299060" MOVED="1425150105022">
 <attribute NAME="ReadIt" VALUE="F"/>
