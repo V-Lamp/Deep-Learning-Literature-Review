@@ -1,33 +1,17 @@
-\BOOKMARK [1][-]{section.0.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.0.2}{Limitations of other Machine Learning approaches}{}% 2
-\BOOKMARK [2][-]{subsection.0.2.1}{Limitations to local learning.}{section.0.2}% 3
-\BOOKMARK [2][-]{subsection.0.2.2}{Engineered feature selection and extraction}{section.0.2}% 4
-\BOOKMARK [2][-]{subsection.0.2.3}{Setbacks in investigation of deeper models}{section.0.2}% 5
-\BOOKMARK [1][-]{section.0.3}{Promise of DL}{}% 6
-\BOOKMARK [2][-]{subsection.0.3.1}{Idea: Automated feature extraction}{section.0.3}% 7
-\BOOKMARK [2][-]{subsection.0.3.2}{Benefits in quality}{section.0.3}% 8
-\BOOKMARK [2][-]{subsection.0.3.3}{Benefits in time}{section.0.3}% 9
-\BOOKMARK [2][-]{subsection.0.3.4}{Enabling new applications \(multi-modal\)}{section.0.3}% 10
-\BOOKMARK [2][-]{subsection.0.3.5}{End-to-end ML}{section.0.3}% 11
-\BOOKMARK [2][-]{subsection.0.3.6}{One algorithm for many areas of application}{section.0.3}% 12
-\BOOKMARK [1][-]{section.0.4}{Basic ideas of DL}{}% 13
-\BOOKMARK [2][-]{subsection.0.4.1}{The very generic/abstract deep architecture \(just so the reader can follow the rest\)}{section.0.4}% 14
-\BOOKMARK [2][-]{subsection.0.4.2}{Priors: Why DL may work and when}{section.0.4}% 15
-\BOOKMARK [2][-]{subsection.0.4.3}{Why unsupervised pre training is helping. Different hypotheses}{section.0.4}% 16
-\BOOKMARK [2][-]{subsection.0.4.4}{More}{section.0.4}% 17
-\BOOKMARK [1][-]{section.0.5}{Comparison of DL methods}{}% 18
-\BOOKMARK [2][-]{subsection.0.5.1}{Computer Vision}{section.0.5}% 19
-\BOOKMARK [2][-]{subsection.0.5.2}{Most popular fields of application \(Brief intro so that it provides context to the architectures that follow\)}{section.0.5}% 20
-\BOOKMARK [2][-]{subsection.0.5.3}{Different architectures}{section.0.5}% 21
-\BOOKMARK [2][-]{subsection.0.5.4}{Popular architectures for each field}{section.0.5}% 22
-\BOOKMARK [1][-]{section.0.6}{Notable ideas on implementing popular deep architectures}{}% 23
-\BOOKMARK [2][-]{subsection.0.6.1}{Layer-wise greedy pre-training}{section.0.6}% 24
-\BOOKMARK [2][-]{subsection.0.6.2}{Regularisation methods}{section.0.6}% 25
-\BOOKMARK [1][-]{section.0.7}{Critique and weaknesses}{}% 26
-\BOOKMARK [1][-]{section.0.8}{Remaining challenges}{}% 27
-\BOOKMARK [2][-]{subsection.0.8.1}{Scaling up}{section.0.8}% 28
-\BOOKMARK [2][-]{subsection.0.8.2}{Distributed training}{section.0.8}% 29
-\BOOKMARK [2][-]{subsection.0.8.3}{Developing intuition and understanding of DL}{section.0.8}% 30
-\BOOKMARK [2][-]{subsection.0.8.4}{Finding new areas of \(commercial\) application}{section.0.8}% 31
-\BOOKMARK [1][-]{section.0.9}{Commercial applications of DL}{}% 32
-\BOOKMARK [2][-]{subsection.0.9.1}{Companies and how they too promote the research}{section.0.9}% 33
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Limitations of shallow architectures}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Limitations of kernel-based learning.}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Engineered feature extraction}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Basic ideas of Deep Learning}{}% 5
+\BOOKMARK [1][-]{section.4}{Deep Architectures}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Convolutional Neural Networks}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Deep Belief Networks}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.3}{Stacked Autoencoders}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.4}{Similarities and differences}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Notable ideas on implementing Deep Learning methods}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Layer-wise pre-training}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Dropout, a regularisation method}{section.5}% 13
+\BOOKMARK [1][-]{section.6}{Domains of applications}{}% 14
+\BOOKMARK [2][-]{subsection.6.1}{Computer Vision}{section.6}% 15
+\BOOKMARK [2][-]{subsection.6.2}{Natural Language Processing and Speech Recognition}{section.6}% 16
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 17

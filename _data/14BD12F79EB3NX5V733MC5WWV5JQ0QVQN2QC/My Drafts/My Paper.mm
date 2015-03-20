@@ -1,7 +1,7 @@
 <map version="docear 1.1" dcr_id="1425147575669_dphoivble294mztfeapncnpra" project="14BD12F79EB3NX5V733MC5WWV5JQ0QVQN2QC" project_last_home="file:/D:/Dropbox/King&apos;s/A.R.T/MyPaper/">
 <!--To view this file, download Docear - The Academic Literature Suite from http://www.docear.org -->
 <attribute_registry SHOW_ATTRIBUTES="selected"/>
-<node TEXT="My Paper" FOLDED="false" ID="ID_89932540" CREATED="1425147575643" MODIFIED="1425571297754"><hook NAME="MapStyle" zoom="1.003">
+<node TEXT="bh" FOLDED="false" ID="ID_89932540" CREATED="1425147575643" MODIFIED="1426731684133"><hook NAME="MapStyle" zoom="1.003">
     <properties show_icon_for_attributes="true" show_note_icons="true"/>
 
 <map_styles>
@@ -1929,9 +1929,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="2 Why should we care about learning representations?" ID="ID_1547595134" CREATED="1425225868254" MODIFIED="1425571298267" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="1" object_id="1378717913617673664" object_number="8" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="1" object_id="1378717913617673664" object_number="8"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -1940,9 +1938,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="3 What makes a representation good?" ID="ID_1883120909" CREATED="1425225868488" MODIFIED="1425571298275" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="3" object_id="1792687970731282130" object_number="12" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="3" object_id="1792687970731282130" object_number="12"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -1950,9 +1946,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="3.1 Priors for Representation Learning in AI" ID="ID_973677775" CREATED="1425225868509" MODIFIED="1425571298285" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="3" object_id="4360291180744730857" object_number="16" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="3" object_id="4360291180744730857" object_number="16"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -1961,9 +1955,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="3.2 Smoothness and the Curse of Dimensionality" ID="ID_470633196" CREATED="1425225868534" MODIFIED="1425571298295" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="3" object_id="633545456531066220" object_number="20" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="3" object_id="633545456531066220" object_number="20"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -1972,9 +1964,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="3.3 Distributed representations" ID="ID_310954827" CREATED="1425225868560" MODIFIED="1425571298303" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="4" object_id="6004411242666606401" object_number="24" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="4" object_id="6004411242666606401" object_number="24"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -1983,9 +1973,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="3.4 Depth and abstraction" ID="ID_1904261405" CREATED="1425225868681" MODIFIED="1425571298311" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="4" object_id="4074849047069852017" object_number="28" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="4" object_id="4074849047069852017" object_number="28"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -1994,9 +1982,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="3.5 Disentangling Factors of Variation" ID="ID_1570989515" CREATED="1425225868709" MODIFIED="1425571298320" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="5" object_id="4049288526960604727" object_number="32" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="5" object_id="4049288526960604727" object_number="32"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2005,9 +1991,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="3.6 Good criteria for learning representations?" ID="ID_16779175" CREATED="1425225868848" MODIFIED="1425571298328" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="5" object_id="3675416649565644625" object_number="36" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="5" object_id="3675416649565644625" object_number="36"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2017,9 +2001,7 @@
 </node>
 </node>
 <node TEXT="8 Representation Learning as Manifold Learning " ID="ID_325501533" CREATED="1425225868105" MODIFIED="1425571298339" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="16" object_id="848870462195878057" object_number="112" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="16" object_id="848870462195878057" object_number="112"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2027,9 +2009,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="8.1 Learning a parametric mapping based on a neighborhood graph" ID="ID_1050323316" CREATED="1425225868734" MODIFIED="1425571298348" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="16" object_id="1641229076317392079" object_number="116" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="16" object_id="1641229076317392079" object_number="116"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2038,9 +2018,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="8.2 Learning to represent non-linear manifolds" ID="ID_1275091667" CREATED="1425225868098" MODIFIED="1425571298356" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="17" object_id="6241715172389730028" object_number="120" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="17" object_id="6241715172389730028" object_number="120"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2049,9 +2027,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="8.3 Leveraging the modeled tangent spaces" ID="ID_447592120" CREATED="1425225868295" MODIFIED="1425571298365" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="18" object_id="8963549657651742661" object_number="124" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="18" object_id="8963549657651742661" object_number="124"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2216,9 +2192,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="9 Connections between Probabilistic and Direct Encoding models " FOLDED="true" ID="ID_713235255" CREATED="1425225867941" MODIFIED="1425571298522" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="18" object_id="3340320165337628833" object_number="128" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="18" object_id="3340320165337628833" object_number="128"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2226,9 +2200,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="9.1 PSD: a probabilistic interpretation" ID="ID_1724272254" CREATED="1425225867934" MODIFIED="1425225867934" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="18" object_id="7845460488457069496" object_number="132" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="18" object_id="7845460488457069496" object_number="132"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2236,9 +2208,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="9.2 Regularized Auto-Encoders Capture Local Structure of the Density" ID="ID_1762169031" CREATED="1425225868923" MODIFIED="1425225868924" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="18" object_id="5518357000007271781" object_number="136" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="18" object_id="5518357000007271781" object_number="136"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2246,9 +2216,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="9.3 Learning Approximate Inference" ID="ID_1565689639" CREATED="1425225868323" MODIFIED="1425225868323" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="19" object_id="6190422739858620747" object_number="140" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="19" object_id="6190422739858620747" object_number="140"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2256,9 +2224,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="9.4 Sampling Challenges" ID="ID_1215547314" CREATED="1425225868132" MODIFIED="1425225868132" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="19" object_id="1559481916797762496" object_number="144" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="19" object_id="1559481916797762496" object_number="144"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2266,9 +2232,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="9.5 Evaluating and Monitoring Performance" ID="ID_390412939" CREATED="1425225869067" MODIFIED="1425225869067" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="20" object_id="7397932939524964861" object_number="148" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="20" object_id="7397932939524964861" object_number="148"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2398,18 +2362,14 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua"/>
 </node>
 <node TEXT="7 Directly Learning A Parametric Map from Input to Representation" ID="ID_1283842048" CREATED="1425225867904" MODIFIED="1425225867904" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf" MOVED="1425312318909">
-<pdf_annotation type="BOOKMARK" page="13" object_id="5987636761099725989" object_number="84" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="13" object_id="5987636761099725989" object_number="84"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="{Representation Learning: A Review and New Perspectives}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <node TEXT="7.1 Auto-Encoders" ID="ID_1696043452" CREATED="1425225868786" MODIFIED="1425225868786" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="13" object_id="3419137699886044977" object_number="88" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="13" object_id="3419137699886044977" object_number="88"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2417,18 +2377,14 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="7.2 Regularized Auto-Encoders " FOLDED="true" ID="ID_1737017526" CREATED="1425225867898" MODIFIED="1425225867898" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="14" object_id="7215877719930148" object_number="92" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="14" object_id="7215877719930148" object_number="92"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="{Representation Learning: A Review and New Perspectives}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <node TEXT="7.2.1 Sparse Auto-Encoders" ID="ID_58471902" CREATED="1425225867890" MODIFIED="1425225867891" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="14" object_id="192763222590332355" object_number="96" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="14" object_id="192763222590332355" object_number="96"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2436,9 +2392,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="7.2.2 Denoising Auto-Encoders " ID="ID_120852275" CREATED="1425225868452" MODIFIED="1425225868452" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="14" object_id="5680647365220088830" object_number="100" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="14" object_id="5680647365220088830" object_number="100"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2446,9 +2400,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="7.2.3 Contractive Auto-Encoders " ID="ID_1494129517" CREATED="1425225868812" MODIFIED="1425225868812" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="15" object_id="1674309907476549329" object_number="104" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="15" object_id="1674309907476549329" object_number="104"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2456,9 +2408,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="7.2.4 Predictive Sparse Decomposition " ID="ID_1520261662" CREATED="1425225867964" MODIFIED="1425225867964" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="16" object_id="7079302870737842033" object_number="108" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="16" object_id="7079302870737842033" object_number="108"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -2515,7 +2465,7 @@
 <node TEXT="[162] G. Hinton, A. Krizhevsky, and S. Wang. Transforming autoencoders. In&#xa;Proceedings of International Conference on Arti&#xfb01;cial Neural Networks.&#xa;2011." ID="ID_1689817666" CREATED="1425241197935" MODIFIED="1425241215234"/>
 </node>
 </node>
-<node TEXT="ConvNets" FOLDED="true" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1425822853750" DCR_PRIVACY_LEVEL="DEMO">
+<node TEXT="ConvNets" FOLDED="true" ID="ID_61962184" CREATED="1377254965195" MODIFIED="1426689108113" DCR_PRIVACY_LEVEL="DEMO">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="2.1 Deep Supervised Nets, Convolutional Nets, Dropout" ID="ID_355060604" CREATED="1425244440105" MODIFIED="1425244440105" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio_2013_Deep%20Learning%20of%20Representations%20Looking%20Forward.pdf" MOVED="1425312438692">
 <pdf_annotation type="BOOKMARK" page="2" object_id="3790115478617257702" object_number="146" document_hash="4B9713DA2DD65D90417B9DAEA7965DB19C92088D1AB981CA45ABC9B25313">
@@ -2577,9 +2527,7 @@
 <attribute NAME="authors" VALUE="{Yann Lecun, L. D. Jackel, Harris A. Eduard, N Bottou, Corinna Cartes, John S. Denker, Harris Drucker, Eduard Sackinger, Patrice Simard}, Vladimir Vapnik"/>
 </node>
 <node TEXT="Lee et al._2009_Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations.pdf" ID="ID_270318812" CREATED="1425225867828" MODIFIED="1425225867828" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Lee%20et%20al._2009_Convolutional%20deep%20belief%20networks%20for%20scalable%20unsupervised%20learning%20of%20hierarchical%20representations.pdf">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="E7D8D8D0E93A2FD5E894231EB8673AB0468C46C35432327EE57C29B9D9EBCB">
-    <pdf_title>Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0"/>
 <attribute NAME="key" VALUE="Lee2009b"/>
 <attribute NAME="year" VALUE="2009"/>
 <attribute NAME="title" VALUE="{Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations}"/>
@@ -3004,27 +2952,21 @@
 </node>
 </node>
 <node TEXT="6 Probabilistic Models " ID="ID_829468074" CREATED="1425225868039" MODIFIED="1425225868039" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf" MOVED="1425312466689">
-<pdf_annotation type="BOOKMARK" page="7" object_id="4040261279190211325" object_number="48" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="7" object_id="4040261279190211325" object_number="48"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="{Representation Learning: A Review and New Perspectives}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <node TEXT="6.1 Directed Graphical Models" ID="ID_268758740" CREATED="1425225868228" MODIFIED="1425225868228" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="7" object_id="1380280522432166267" object_number="52" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="7" object_id="1380280522432166267" object_number="52"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="{Representation Learning: A Review and New Perspectives}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <node TEXT="6.1.1 Explaining Away" ID="ID_1531869516" CREATED="1425225868950" MODIFIED="1425225868951" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="7" object_id="3467748800244296843" object_number="56" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="7" object_id="3467748800244296843" object_number="56"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -3033,9 +2975,7 @@
 </node>
 </node>
 <node TEXT="6.2 Undirected Graphical Models" ID="ID_1119041668" CREATED="1425225868586" MODIFIED="1425225868586" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="9" object_id="2797227092603713602" object_number="60" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="9" object_id="2797227092603713602" object_number="60"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -3043,9 +2983,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="6.3 Generalizations of the RBM to Real-valued data" ID="ID_1163796936" CREATED="1425225868167" MODIFIED="1425225868168" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="10" object_id="2843076777331790645" object_number="64" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="10" object_id="2843076777331790645" object_number="64"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -3053,18 +2991,14 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="6.4 RBM parameter estimation" FOLDED="true" ID="ID_1410514601" CREATED="1425225868032" MODIFIED="1425225868032" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="11" object_id="1510331036826168451" object_number="68" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="11" object_id="1510331036826168451" object_number="68"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
 <attribute NAME="title" VALUE="{Representation Learning: A Review and New Perspectives}"/>
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <node TEXT="6.4.1 Contrastive Divergence" ID="ID_1922581615" CREATED="1425225868881" MODIFIED="1425225868881" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="11" object_id="8145645398895851610" object_number="72" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="11" object_id="8145645398895851610" object_number="72"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -3072,9 +3006,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="6.4.2 Stochastic Maximum Likelihood" ID="ID_504506083" CREATED="1425225869034" MODIFIED="1425225869034" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="12" object_id="677385775703223351" object_number="76" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="12" object_id="677385775703223351" object_number="76"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -3082,9 +3014,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 </node>
 <node TEXT="6.4.3 Pseudolikelihood, Ratio-matching and More" ID="ID_293183856" CREATED="1425225868612" MODIFIED="1425225868612" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="12" object_id="5846336606125742381" object_number="80" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="12" object_id="5846336606125742381" object_number="80"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -3866,7 +3796,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Notable ideas on implementing deep architectures" POSITION="left" ID="ID_1325495828" CREATED="1425150084029" MODIFIED="1425571298846" NUMBERED="true">
+<node TEXT="Notable ideas on implementing deep architectures" FOLDED="true" POSITION="left" ID="ID_1325495828" CREATED="1425150084029" MODIFIED="1425571298846" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Layer-wise greedy pre-training" ID="ID_1119287890" CREATED="1425150091499" MODIFIED="1425571298852" MOVED="1425150094891">
 <attribute NAME="ReadIt" VALUE="F"/>
@@ -3915,9 +3845,7 @@
 </node>
 </node>
 <node TEXT="Yoshua Bengio, Pascal Lamblin, Dan Popovici, Hugo Larochelle, Universit&#xe9; De Montr&#xe9;al_2007_Greedy layer-wise training of deep networks.pdf" ID="ID_655729563" CREATED="1425226331961" MODIFIED="1425571298895" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Yoshua%20Bengio,%20Pascal%20Lamblin,%20Dan%20Popovici,%20Hugo%20Larochelle,%20Universit&#xe9;%20De%20Montr&#xe9;al_2007_Greedy%20layer-wise%20training%20of%20deep%20networks.pdf" MOVED="1425241368903">
-<pdf_annotation type="PDF_FILE" object_id="0" document_hash="A051698FF329655293A810668F8F94384C269E8CA33428C5CC93946E6BAD">
-    <pdf_title>Greedy Layer-Wise Training of Deep Networks</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="PDF_FILE" object_id="0"/>
 <attribute NAME="key" VALUE="YoshuaBengio"/>
 <attribute NAME="title" VALUE="{Greedy layer-wise training of deep networks}"/>
 <attribute NAME="authors" VALUE="{Yoshua Bengio, Pascal Lamblin, Dan Popovici, Hugo Larochelle, Universit\&apos;{e} De Montr\&apos;{e}al}, Montr\&apos;{e}al Qu\&apos;{e}bec"/>
@@ -4078,9 +4006,7 @@
 <node TEXT="Reguralisation methods" ID="ID_1947193134" CREATED="1425150091490" MODIFIED="1425571298909" MOVED="1425150096123">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="11 Building-In Invariance " ID="ID_299783678" CREATED="1425225868007" MODIFIED="1425571298916" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="22" object_id="8655782097933202082" object_number="172" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="22" object_id="8655782097933202082" object_number="172"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4088,9 +4014,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="11.1 Generating transformed examples" ID="ID_796355454" CREATED="1425225868985" MODIFIED="1425571298923" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="23" object_id="8318061775409314277" object_number="176" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="23" object_id="8318061775409314277" object_number="176"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4099,9 +4023,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="11.2 Convolution and pooling " ID="ID_594338100" CREATED="1425225868760" MODIFIED="1425571298933" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="23" object_id="8382356479078252117" object_number="180" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="23" object_id="8382356479078252117" object_number="180"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4110,9 +4032,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="11.3 Temporal coherence and slow features " ID="ID_153387370" CREATED="1425225868000" MODIFIED="1425571298944" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="24" object_id="3320719829441894434" object_number="184" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="24" object_id="3320719829441894434" object_number="184"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4121,9 +4041,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="11.4 Algorithms to Disentangle Factors of Variation " ID="ID_1849041392" CREATED="1425225868200" MODIFIED="1425571298954" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="24" object_id="3309110120269023634" object_number="188" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="24" object_id="3309110120269023634" object_number="188"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4595,9 +4513,7 @@
 </node>
 </node>
 <node TEXT="10 Global Training of Deep Models" ID="ID_370258978" CREATED="1425225868073" MODIFIED="1425571298976" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="20" object_id="1683341148488082068" object_number="152" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="20" object_id="1683341148488082068" object_number="152"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4605,9 +4521,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="10.1 The Challenge of Training Deep Architectures " ID="ID_1850295318" CREATED="1425225868651" MODIFIED="1425571298988" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="20" object_id="3845610922169533424" object_number="156" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="20" object_id="3845610922169533424" object_number="156"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4616,9 +4530,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="10.2 Joint Training of Deep Boltzmann Machines " ID="ID_1124457131" CREATED="1425225868065" MODIFIED="1425571299001" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="22" object_id="25657577844217775" object_number="160" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="22" object_id="25657577844217775" object_number="160"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4626,9 +4538,7 @@
 <attribute NAME="authors" VALUE="Bengio, Yoshua and Courville, Aaron and Vincent, Pascal"/>
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="10.2.1 Mean-field approximate inference" ID="ID_481270111" CREATED="1425225868385" MODIFIED="1425571299015" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="22" object_id="2386760313363011524" object_number="164" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="22" object_id="2386760313363011524" object_number="164"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4637,9 +4547,7 @@
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
 <node TEXT="10.2.2 Training Deep Boltzmann Machines" ID="ID_951343186" CREATED="1425225868417" MODIFIED="1425571299028" LINK="file:/C:/Users/Lampridis/AppData/Local/Mendeley%20Ltd/Mendeley%20Desktop/Downloaded/Bengio,%20Courville,%20Vincent_2012_Representation%20Learning%20A%20Review%20and%20New%20Perspectives.pdf">
-<pdf_annotation type="BOOKMARK" page="22" object_id="6436596544930055551" object_number="168" document_hash="1F1BD34E1884199EF88BEE36384C742315EF3519BECCA47A98BDC80E5C93A">
-    <pdf_title>Representation Learning: A Review and New Perspectives</pdf_title>
-</pdf_annotation>
+<pdf_annotation type="BOOKMARK" page="22" object_id="6436596544930055551" object_number="168"/>
 <attribute NAME="key" VALUE="Bengio2012"/>
 <attribute NAME="journal" VALUE="PAMI"/>
 <attribute NAME="year" VALUE="2012"/>
@@ -4653,7 +4561,7 @@
 <node TEXT="Critique and weaknesses" POSITION="left" ID="ID_1723555906" CREATED="1425150091469" MODIFIED="1425571299039" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 </node>
-<node TEXT="Remaining challenges" FOLDED="true" POSITION="left" ID="ID_1221974905" CREATED="1425150091458" MODIFIED="1425571299050" NUMBERED="true">
+<node TEXT="Remaining challenges" POSITION="left" ID="ID_1221974905" CREATED="1425150091458" MODIFIED="1425571299050" NUMBERED="true">
 <attribute NAME="ReadIt" VALUE="F"/>
 <node TEXT="Scaling up" ID="ID_588898077" CREATED="1425150091449" MODIFIED="1425571299060" MOVED="1425150105022">
 <attribute NAME="ReadIt" VALUE="F"/>
